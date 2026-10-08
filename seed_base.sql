@@ -1,5 +1,3 @@
-sql
-
 -- Registrar as versões da Bíblia no banco de dados
 INSERT INTO translations (id, name, language, license, is_original) VALUES
 ('BLIVRE', 'Bíblia Livre', 'pt-BR', 'CC BY-SA 4.0', FALSE);

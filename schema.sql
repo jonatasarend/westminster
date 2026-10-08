@@ -1,4 +1,3 @@
-sql
 -- ======================================================================================
 -- ESQUEMA DE BANCO DE DADOS - BÍBLIA INTERLINEAR ( SQL + DUCKDB )
 -- ======================================================================================
@@ -24,7 +23,7 @@ CREATE TABLE IF NOT EXISTS verses (
 CREATE TABLE IF NOT EXISTS translations (
     id VARCHAR(20) PRIMARY KEY,                       -- 'NVI', 'ARA', 'ACF'
     name VARCHAR(100) NOT NULL,                       -- 'Nova Versão Internacional', 'Almeida Revista e Atualizada', 'Almeida Corrigida Fiel'
-    language VARCHAR(10) NOT NULL                     -- 'pt', 'en', 'es'
+    language VARCHAR(10) NOT NULL,                     -- 'pt', 'en', 'es'
     license VARCHAR(100) NOT NULL,                    -- 'CC BY-SA 4.0', 'Public Domain'
     is_original BOOLEAN NOT NULL DEFAULT FALSE        -- Indica se é a tradução ou original
 );
@@ -33,7 +32,7 @@ CREATE TABLE IF NOT EXISTS translations (
 CREATE TABLE IF NOT EXISTS verses_texts (
     translation_id VARCHAR(20) NOT NULL REFERENCES translations(id),
     verse_id INTEGER NOT NULL REFERENCES verses(id),
-    text TEXT NOT NULL                                -- Texto corrido do versículo na tradução especificada
+    text TEXT NOT NULL,                                -- Texto corrido do versículo na tradução especificada
     PRIMARY KEY (translation_id, verse_id)
 );
 
@@ -54,7 +53,7 @@ CREATE TABLE IF NOT EXISTS original_tokens (
     vocalizes_text VARCHAR(100),                                -- Texto com vogais
     lemma VARCHAR(100),                                         -- Forma canônica do token
     morphology VARCHAR(100),                                    -- Informação morfológica
-    strong_id VARCHAR(10)                                       -- Referência ao Strong's Concordance
+    strong_id VARCHAR(10),                                       -- Referência ao Strong's Concordance
     literal_pt VARCHAR(100)                                     -- Tradução literal do token para o português
 );
 
@@ -65,7 +64,7 @@ CREATE TABLE IF NOT EXISTS strong_dictionary (
     transliteration VARCHAR(100),                                 -- Transliteração do termo
     pronunciation VARCHAR(100),                                   -- Pronúncia do termo
     short_def VARCHAR(255),                                           -- Definição curta
-    detailed_def TEXT,                                               -- Definição detalhada
+    detailed_def TEXT                                               -- Definição detalhada
 );
 
 -- ======================================================================================
@@ -73,6 +72,6 @@ CREATE TABLE IF NOT EXISTS strong_dictionary (
 -- ======================================================================================
 
 CREATE INDEX IF NOT EXISTS idx_verses_book_chap ON verses(book_id, chapter);
-CREATE INDEX IF NOT EXISTS idx_verses_texts_lookup ON verse_texts(verse_id, translation_id);
+CREATE INDEX IF NOT EXISTS idx_verses_texts_lookup ON verses_texts(verse_id, translation_id);
 CREATE INDEX IF NOT EXISTS idx_tokens_verse_source ON original_tokens(verse_id, source_id, token_order);
 CREATE INDEX IF NOT EXISTS idx_tokens_strong ON original_tokens(strong_id);
