@@ -1,0 +1,11 @@
+{
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.parquet": "parquet-visualizer.parquetVisualizer",
+        "*.csv": "csv.editor",
+        "*.md": "vscode.markdown.preview.editor",
+        "*.db": "default",
+        "*.tsv": "duckdb.dataFileViewer",
+        "*.xlsx": "duckdb.dataFileViewer"
+    }
+}
