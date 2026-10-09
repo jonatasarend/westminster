@@ -1,3 +1,6 @@
+# python -c "import duckdb; con = duckdb.connect('bible_interlinear.db'); con.execute('CALL start_ui_server()'); input('Abra http://localhost:4213 - Enter para parar')"
+
+
 import json
 import duckdb
 
@@ -14,10 +17,16 @@ def import_biblia_livre():
         schema_sql = f.read()
         con.execute(schema_sql)
 
+    # 2.1 Ler e executar o seed_base.sql
+        print("Executando o arquivo seed_base.sql...")
+        with open("seed_base.sql", "r", encoding="utf-8") as f:
+            seed_sql = f.read()
+            con.execute(seed_sql)
+
     # 3. Registrar a versão Bíblia Livre na tabela de versões
     con.execute("""
         INSERT OR IGNORE INTO translations (id, name, language, license, is_original)
-        VALUES ('BLIVRE', 'Bíblia Livre', 'pt', 'CC BY-SA 4.0', FALSE);
+        VALUES ('BLIVRE', 'Bíblia Livre', 'pt-BR', 'CC BY-SA 4.0', FALSE);
         """)
 
     # 4. Ler o arquivo JSON com o texto da Bíblia Livre
@@ -48,7 +57,7 @@ def import_biblia_livre():
                 # Registro para tabela canônica 'verses'
                 verses_records.append((verse_id, book_id, chap_num, verse_num))
 
-                # Registro para tabela de textos 'verse_texts'
+                # Registro para tabela de textos 'verses_texts'
                 texts_records.append(('BLIVRE', verse_id, text_content))
 
     # 6. Inserir os registros em lote (Batch Insert)
@@ -62,12 +71,12 @@ def import_biblia_livre():
 
     # Insere o texto em português
     con.executemany("""
-        INSERT OR IGNORE INTO verse_texts (translation_id, verse_id, text)
+        INSERT OR IGNORE INTO verses_texts (translation_id, verse_id, text)
         VALUES (?, ?, ?);
     """, texts_records)
 
     # 7. Validar a importação
-    count = con.execute("SELECT COUNT(*) FROM verse_texts WHERE translation_id = 'BLIVRE'").fetchone()[0]
+    count = con.execute("SELECT COUNT(*) FROM verses_texts WHERE translation_id = 'BLIVRE'").fetchone()[0]
     print(f"Sucesso! Total de versículos salvos para a Bíblia Livre: {count}")
 
     # Encerra a conexão salvando as alterações

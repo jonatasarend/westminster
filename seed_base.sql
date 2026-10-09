@@ -1,15 +1,15 @@
 -- Registrar as versões da Bíblia no banco de dados
-INSERT INTO translations (id, name, language, license, is_original) VALUES
+INSERT OR IGNORE INTO translations (id, name, language, license, is_original) VALUES
 ('BLIVRE', 'Bíblia Livre', 'pt-BR', 'CC BY-SA 4.0', FALSE);
 
-INSERT INTO source_texts (id, name, language) VALUES
+INSERT OR IGNORE INTO source_texts (id, name, language) VALUES
 ('WLC', 'Westminster Leningrad Codex', 'hebrew'),
 ('OSHB', 'Open Scriptures Hebrew Bible', 'hebrew'),
 ('SBLGNT', 'SBL Greek New Testament', 'greek'),
 ('TR', 'Textus Receptus (1894)', 'greek');
 
 -- Inserindo livros da Bíblia
-INSERT INTO books (id, code, name, testament, book_order) VALUES
+INSERT OR IGNORE INTO books (id, code, name, testament, book_order) VALUES
 (1, 'GN', 'Gênesis', 'OT', 1),
 (2, 'EX', 'Êxodo', 'OT', 2),
 (3, 'LV', 'Levítico', 'OT', 3),
@@ -78,11 +78,11 @@ INSERT INTO books (id, code, name, testament, book_order) VALUES
 (66, 'AP','Apocalipse','NT',66);
 
 -- Registrar Genesis 1:1 e João 1:1 na tabela canônica de versículos
-INSERT INTO verses (id, book_id, chapter, verse) VALUES
+INSERT OR IGNORE INTO verses (id, book_id, chapter, verse) VALUES
 (1001001, 1, 1, 1),  -- Gênesis 1:1
-(4300101, 43, 1, 1); -- João 1:1
+(43001001, 43, 1, 1); -- João 1:1
 
 -- Inserir textos corridos para os versículos registrados
-INSERT INTO verses_texts (translation_id, verse_id, text) VALUES
+INSERT OR IGNORE INTO verses_texts (translation_id, verse_id, text) VALUES
 ('BLIVRE', 1001001, 'No princípio, Deus criou os céus e a terra.'),
-('BLIVRE', 4300101, 'No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.');
+('BLIVRE', 43001001, 'No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.');
