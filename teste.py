@@ -3,7 +3,7 @@ import duckdb
 # Conecta ao banco
 con = duckdb.connect("bible_interlinear.db")
 
-# Busca João 1:1 em todas as traduções
+# Busca versículo em todas as traduções
 resultado = con.execute("""
     SELECT
         vt.translation_id,
@@ -12,7 +12,7 @@ resultado = con.execute("""
     FROM verses_texts vt
     JOIN translations t
         ON vt.translation_id = t.id
-    WHERE vt.verse_id = 43001001
+    WHERE vt.verse_id = 64001014
     ORDER BY vt.translation_id
 """).fetchall()
 
