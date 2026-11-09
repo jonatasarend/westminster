@@ -1,0 +1,3972 @@
+{
+  "Nahum": {
+    "name": "נחום",
+    "name_greek": "νηυχ",
+    "chapters": {
+      "1": {
+        "1": [
+          {
+            "strongs": "4853",
+            "hebrew": "מַשָּׂ֖א",
+            "hebrew_greek": "μτα",
+            "english": "The burden",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "5210",
+            "hebrew": ".  נִֽינְוֵ֑ה",
+            "hebrew_greek": ".  νινυε",
+            "english": "of Nineveh",
+            "morphology": "Noun - proper - feminine singular"
+          },
+          {
+            "strongs": "5612",
+            "hebrew": "סֵ֧פֶר",
+            "hebrew_greek": "ξπσ",
+            "english": "The book",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "2377",
+            "hebrew": "חֲז֛וֹן",
+            "hebrew_greek": "ηζυψ",
+            "english": "of the vision",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "5151",
+            "hebrew": "נַח֖וּם",
+            "hebrew_greek": "νηυχ",
+            "english": "of Nahum",
+            "morphology": "Noun - proper - masculine singular"
+          },
+          {
+            "strongs": "512",
+            "hebrew": ".  הָאֶלְקֹשִֽׁי׃",
+            "hebrew_greek": ".  εαλρτι",
+            "english": "the Elkoshite",
+            "morphology": "Article :: Noun - proper - masculine singular"
+          }
+        ],
+        "2": [
+          {
+            "strongs": "410",
+            "hebrew": "אֵ֣ל",
+            "hebrew_greek": "αλ",
+            "english": "God [is]",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "7072",
+            "hebrew": "､  קַנּ֤וֹא",
+            "hebrew_greek": "､  ρνυα",
+            "english": "jealous",
+            "morphology": "Adjective - masculine singular"
+          },
+          {
+            "strongs": "5358",
+            "hebrew": "–  וְנֹקֵם֙",
+            "hebrew_greek": "–  υνρχ",
+            "english": "and avenges",
+            "morphology": "Conjunctive waw :: Verb - Qal - Participle - masculine singular"
+          },
+          {
+            "strongs": "3069",
+            "hebrew": "יְהוָ֔ה",
+            "hebrew_greek": "ιευε",
+            "english": "Yahweh",
+            "morphology": "Noun - proper - masculine singular"
+          },
+          {
+            "strongs": "5358",
+            "hebrew": "､  נֹקֵ֥ם",
+            "hebrew_greek": "､  νρχ",
+            "english": "avenges",
+            "morphology": "Verb - Qal - Participle - masculine singular"
+          },
+          {
+            "strongs": "3069",
+            "hebrew": "יְהוָ֖ה",
+            "hebrew_greek": "ιευε",
+            "english": "Yahweh",
+            "morphology": "Noun - proper - masculine singular"
+          },
+          {
+            "strongs": "1167",
+            "hebrew": "וּבַ֣עַל",
+            "hebrew_greek": "υβολ",
+            "english": "and",
+            "morphology": "Conjunctive waw :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "2534",
+            "hebrew": "–  חֵמָ֑ה",
+            "hebrew_greek": "–  ημε",
+            "english": "[is] furious",
+            "morphology": "Noun - feminine singular"
+          },
+          {
+            "strongs": "5358",
+            "hebrew": "נֹקֵ֤ם",
+            "hebrew_greek": "νρχ",
+            "english": "will take vengeance",
+            "morphology": "Verb - Qal - Participle - masculine singular"
+          },
+          {
+            "strongs": "3069",
+            "hebrew": "יְהוָה֙",
+            "hebrew_greek": "ιευε",
+            "english": "Yahweh",
+            "morphology": "Noun - proper - masculine singular"
+          },
+          {
+            "strongs": "6862",
+            "hebrew": "､  לְצָרָ֔יו",
+            "hebrew_greek": "､  λϡσιυ",
+            "english": "on His adversaries",
+            "morphology": "Preposition-l :: Noun - masculine plural construct :: third person masculine singular"
+          },
+          {
+            "strongs": "5201",
+            "hebrew": "וְנוֹטֵ֥ר",
+            "hebrew_greek": "υνυθσ",
+            "english": "and reserves [wrath]",
+            "morphology": "Conjunctive waw :: Verb - Qal - Participle - masculine singular"
+          },
+          {
+            "strongs": "1931",
+            "hebrew": "ה֖וּא",
+            "hebrew_greek": "ευα",
+            "english": "He",
+            "morphology": "Pronoun - third person masculine singular"
+          },
+          {
+            "strongs": "341",
+            "hebrew": ".  לְאֹיְבָֽיו׃",
+            "hebrew_greek": ".  λαιβιυ",
+            "english": "for His enemies",
+            "morphology": "Preposition-l :: Verb - Qal - Participle - masculine plural construct :: third person masculine singular"
+          }
+        ],
+        "3": [
+          {
+            "strongs": "3068",
+            "hebrew": "יְהֹוָ֗ה",
+            "hebrew_greek": "ιευε",
+            "english": "Yahweh [is]",
+            "morphology": "Noun - proper - masculine singular"
+          },
+          {
+            "strongs": "750",
+            "hebrew": "אֶ֤רֶךְ",
+            "hebrew_greek": "ασφ",
+            "english": "slow",
+            "morphology": "Adjective - masculine singular construct"
+          },
+          {
+            "strongs": "639",
+            "hebrew": "､  אַפַּ֙יִם֙",
+            "hebrew_greek": "､  απιχ",
+            "english": "to anger",
+            "morphology": "Noun - md"
+          },
+          {
+            "strongs": "1419",
+            "hebrew": "(וּגְדָל־)",
+            "hebrew_greek": "(υγδλ)",
+            "english": "and great in",
+            "morphology": "Conjunctive waw :: Adjective - masculine singular construct"
+          },
+          {
+            "strongs": "1419",
+            "hebrew": "כֹּ֔חַ",
+            "hebrew_greek": "κη",
+            "english": "power",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "5352",
+            "hebrew": "וְנַקֵּ֖ה",
+            "hebrew_greek": "υνρε",
+            "english": "and at all",
+            "morphology": "Conjunctive waw :: Verb - Piel - Infinitive absolute"
+          },
+          {
+            "strongs": "3808",
+            "hebrew": "לֹ֣א",
+            "hebrew_greek": "λα",
+            "english": "not",
+            "morphology": "Adverb - Negative particle"
+          },
+          {
+            "strongs": "5352",
+            "hebrew": "יְנַקֶּ֑ה",
+            "hebrew_greek": "ινρε",
+            "english": "will acquit [the wicked]",
+            "morphology": "Verb - Piel - Imperfect - third person masculine singular"
+          },
+          {
+            "strongs": "3068",
+            "hebrew": "יְהוָ֗ה",
+            "hebrew_greek": "ιευε",
+            "english": "Yahweh has",
+            "morphology": "Noun - proper - masculine singular"
+          },
+          {
+            "strongs": "5492",
+            "hebrew": "בְּסוּפָ֤ה",
+            "hebrew_greek": "βξυπε",
+            "english": "in the whirlwind",
+            "morphology": "Preposition-b :: Noun - feminine singular"
+          },
+          {
+            "strongs": "8183",
+            "hebrew": "､  וּבִשְׂעָרָה֙",
+            "hebrew_greek": "､  υβτοσε",
+            "english": "and in the storm",
+            "morphology": "Conjunctive waw, Preposition-b :: Noun - feminine singular"
+          },
+          {
+            "strongs": "1870",
+            "hebrew": "דַּרְכּ֔וֹ",
+            "hebrew_greek": "δσκυ",
+            "english": "His way",
+            "morphology": "Noun - common singular construct :: third person masculine singular"
+          },
+          {
+            "strongs": "6051",
+            "hebrew": "וְעָנָ֖ן",
+            "hebrew_greek": "υονψ",
+            "english": "and the clouds [are]",
+            "morphology": "Conjunctive waw :: Noun - masculine singular"
+          },
+          {
+            "strongs": "80",
+            "hebrew": "אֲבַ֥ק",
+            "hebrew_greek": "αβρ",
+            "english": "the dust",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "7272",
+            "hebrew": ".  רַגְלָֽיו׃",
+            "hebrew_greek": ".  σγλιυ",
+            "english": "of His feet",
+            "morphology": "Noun - fdc :: third person masculine singular"
+          }
+        ],
+        "4": [
+          {
+            "strongs": "1605",
+            "hebrew": "גּוֹעֵ֤ר",
+            "hebrew_greek": "γυοσ",
+            "english": "He rebukes",
+            "morphology": "Verb - Qal - Participle - masculine singular"
+          },
+          {
+            "strongs": "3220",
+            "hebrew": "､  בַּיָּם֙",
+            "hebrew_greek": "､  βιχ",
+            "english": "the sea",
+            "morphology": "Preposition-b, Article :: Noun - masculine singular"
+          },
+          {
+            "strongs": "3001",
+            "hebrew": "､  וַֽיַּבְּשֵׁ֔הוּ",
+            "hebrew_greek": "､  υιβτευ",
+            "english": "and makes it dry",
+            "morphology": "Conjunctive waw :: Verb - Piel - Consecutive imperfect - third person masculine singular :: third person masculine singular"
+          },
+          {
+            "strongs": "3605",
+            "hebrew": "וְכָל־",
+            "hebrew_greek": "υκλ",
+            "english": "and all",
+            "morphology": "Conjunctive waw :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "5104",
+            "hebrew": ".  הַנְּהָר֖וֹת",
+            "hebrew_greek": ".  ενεσυυ",
+            "english": "the rivers",
+            "morphology": "Article :: Noun - masculine plural"
+          },
+          {
+            "strongs": "2717",
+            "hebrew": "הֶֽחֱרִ֑יב",
+            "hebrew_greek": "εησιβ",
+            "english": "Dries up",
+            "morphology": "Verb - Hifil - Perfect - third person masculine singular"
+          },
+          {
+            "strongs": "536",
+            "hebrew": "אֻמְלַ֤ל",
+            "hebrew_greek": "αμλλ",
+            "english": "wither",
+            "morphology": "Verb - Pual - Perfect - third person masculine singular"
+          },
+          {
+            "strongs": "1316",
+            "hebrew": "בָּשָׁן֙",
+            "hebrew_greek": "βτψ",
+            "english": "Bashan",
+            "morphology": "Noun - proper - feminine singular"
+          },
+          {
+            "strongs": "3760",
+            "hebrew": "､  וְכַרְמֶ֔ל",
+            "hebrew_greek": "､  υκσμλ",
+            "english": "and Carmel",
+            "morphology": "Conjunctive waw :: Noun - proper - feminine singular"
+          },
+          {
+            "strongs": "6525",
+            "hebrew": "וּפֶ֥רַח",
+            "hebrew_greek": "υπση",
+            "english": "and the flower",
+            "morphology": "Conjunctive waw :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "3844",
+            "hebrew": "לְבָנ֖וֹן",
+            "hebrew_greek": "λβνυψ",
+            "english": "of Lebanon",
+            "morphology": "Noun - proper - feminine singular"
+          },
+          {
+            "strongs": "536",
+            "hebrew": ".  אֻמְלָֽל׃",
+            "hebrew_greek": ".  αμλλ",
+            "english": "wilts",
+            "morphology": "Verb - Pual - Perfect - third person masculine singular"
+          }
+        ],
+        "5": [
+          {
+            "strongs": "2022",
+            "hebrew": "הָרִים֙",
+            "hebrew_greek": "εσιχ",
+            "english": "The mountains",
+            "morphology": "Noun - masculine plural"
+          },
+          {
+            "strongs": "7493",
+            "hebrew": "רָעֲשׁ֣וּ",
+            "hebrew_greek": "σοτυ",
+            "english": "quake",
+            "morphology": "Verb - Qal - Perfect - third person common plural"
+          },
+          {
+            "strongs": "4480",
+            "hebrew": "מִמֶּ֔נּוּ",
+            "hebrew_greek": "μμνυ",
+            "english": "before Him",
+            "morphology": "Preposition :: third person masculine singular"
+          },
+          {
+            "strongs": "1389",
+            "hebrew": "וְהַגְּבָע֖וֹת",
+            "hebrew_greek": "υεγβουυ",
+            "english": "and the hills",
+            "morphology": "Conjunctive waw, Article :: Noun - feminine plural"
+          },
+          {
+            "strongs": "4127",
+            "hebrew": "､  הִתְמֹגָ֑גוּ",
+            "hebrew_greek": "､  ευμγγυ",
+            "english": "melt",
+            "morphology": "Verb - Hitpael - Perfect - third person common plural"
+          },
+          {
+            "strongs": "5375",
+            "hebrew": "וַתִּשָּׂ֤א",
+            "hebrew_greek": "υυτα",
+            "english": "and heaves",
+            "morphology": "Conjunctive waw :: Verb - Qal - Consecutive imperfect - third person feminine singular"
+          },
+          {
+            "strongs": "776",
+            "hebrew": "הָאָ֙רֶץ֙",
+            "hebrew_greek": "εασϡ",
+            "english": "the earth",
+            "morphology": "Article :: Noun - feminine singular"
+          },
+          {
+            "strongs": "6440",
+            "hebrew": "､  מִפָּנָ֔יו",
+            "hebrew_greek": "､  μπνιυ",
+            "english": "at His presence",
+            "morphology": "Preposition-m :: Noun - common plural construct :: third person masculine singular"
+          },
+          {
+            "strongs": "8398",
+            "hebrew": "､  וְתֵבֵ֖ל",
+            "hebrew_greek": "､  υυβλ",
+            "english": "and Yes the world",
+            "morphology": "Conjunctive waw :: Noun - feminine singular"
+          },
+          {
+            "strongs": "3605",
+            "hebrew": "וְכָל־",
+            "hebrew_greek": "υκλ",
+            "english": "and all",
+            "morphology": "Conjunctive waw :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "3427",
+            "hebrew": "יֹ֥שְׁבֵי",
+            "hebrew_greek": "ιτβι",
+            "english": "who dwell",
+            "morphology": "Verb - Qal - Participle - masculine plural construct"
+          }
+        ],
+        "6": [
+          {
+            "strongs": "6440",
+            "hebrew": "לִפְנֵ֤י",
+            "hebrew_greek": "λπνι",
+            "english": "Before",
+            "morphology": "Preposition-l :: Noun - common plural construct"
+          },
+          {
+            "strongs": "2195",
+            "hebrew": "؟  זַעְמוֹ֙",
+            "hebrew_greek": "؟  ζομυ",
+            "english": "His indignation",
+            "morphology": "Noun - masculine singular construct :: third person masculine singular"
+          },
+          {
+            "strongs": "4310",
+            "hebrew": "מִ֣י",
+            "hebrew_greek": "μι",
+            "english": "who",
+            "morphology": "Interrogative"
+          },
+          {
+            "strongs": "5975",
+            "hebrew": "יַֽעֲמ֔וֹד",
+            "hebrew_greek": "ιομυδ",
+            "english": "can stand",
+            "morphology": "Verb - Qal - Imperfect - third person masculine singular"
+          },
+          {
+            "strongs": "4310",
+            "hebrew": "וּמִ֥י",
+            "hebrew_greek": "υμι",
+            "english": "and who",
+            "morphology": "Conjunctive waw :: Interrogative"
+          },
+          {
+            "strongs": "6965",
+            "hebrew": "יָק֖וּם",
+            "hebrew_greek": "ιρυχ",
+            "english": "can",
+            "morphology": "Verb - Qal - Imperfect - third person masculine singular"
+          },
+          {
+            "strongs": "2740",
+            "hebrew": "בַּחֲר֣וֹן",
+            "hebrew_greek": "βησυψ",
+            "english": "endure the fierceness",
+            "morphology": "Preposition-b :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "639",
+            "hebrew": "؟  אַפּ֑וֹ",
+            "hebrew_greek": "؟  απυ",
+            "english": "of His anger",
+            "morphology": "Noun - masculine singular construct :: third person masculine singular"
+          },
+          {
+            "strongs": "2534",
+            "hebrew": "חֲמָתוֹ֙",
+            "hebrew_greek": "ημυυ",
+            "english": "His fury",
+            "morphology": "Noun - feminine singular construct :: third person masculine singular"
+          },
+          {
+            "strongs": "5413",
+            "hebrew": "נִתְּכָ֣ה",
+            "hebrew_greek": "νυκε",
+            "english": "is poured out",
+            "morphology": "Verb - Nifal - Perfect - third person feminine singular"
+          },
+          {
+            "strongs": "784",
+            "hebrew": "､  כָאֵ֔שׁ",
+            "hebrew_greek": "､  κατ",
+            "english": "like fire",
+            "morphology": "Preposition-k, Article :: Noun - common singular"
+          },
+          {
+            "strongs": "6697",
+            "hebrew": "וְהַצֻּרִ֖ים",
+            "hebrew_greek": "υεϡσιχ",
+            "english": "and the rocks",
+            "morphology": "Conjunctive waw, Article :: Noun - masculine plural"
+          },
+          {
+            "strongs": "5422",
+            "hebrew": "נִתְּצ֥וּ",
+            "hebrew_greek": "νυϡυ",
+            "english": "are thrown down",
+            "morphology": "Verb - Nifal - Perfect - third person common plural"
+          },
+          {
+            "strongs": "4480",
+            "hebrew": ".  מִמֶּֽנּוּ׃",
+            "hebrew_greek": ".  μμνυ",
+            "english": "by Him",
+            "morphology": "Preposition :: third person masculine singular"
+          }
+        ],
+        "7": [
+          {
+            "strongs": "2896",
+            "hebrew": "､  ט֣וֹב",
+            "hebrew_greek": "､  θυβ",
+            "english": "Good",
+            "morphology": "Adjective - masculine singular"
+          },
+          {
+            "strongs": "3068",
+            "hebrew": "יְהוָ֔ה",
+            "hebrew_greek": "ιευε",
+            "english": "Yahweh [is]",
+            "morphology": "Noun - proper - masculine singular"
+          },
+          {
+            "strongs": "4581",
+            "hebrew": "לְמָע֖וֹז",
+            "hebrew_greek": "λμουζ",
+            "english": "a stronghold",
+            "morphology": "Preposition-l :: Noun - masculine singular"
+          },
+          {
+            "strongs": "3117",
+            "hebrew": "בְּי֣וֹם",
+            "hebrew_greek": "βιυχ",
+            "english": "in the day",
+            "morphology": "Preposition-b :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "6869",
+            "hebrew": "–  צָרָ֑ה",
+            "hebrew_greek": "–  ϡσε",
+            "english": "of trouble",
+            "morphology": "Noun - feminine singular"
+          },
+          {
+            "strongs": "3045",
+            "hebrew": "וְיֹדֵ֖עַ",
+            "hebrew_greek": "υιδο",
+            "english": "and He knows",
+            "morphology": "Conjunctive waw :: Verb - Qal - Participle - masculine singular"
+          },
+          {
+            "strongs": "2620",
+            "hebrew": "חֹ֥סֵי",
+            "hebrew_greek": "ηξι",
+            "english": "those who trust",
+            "morphology": "Verb - Qal - Participle - masculine plural construct"
+          }
+        ],
+        "8": [
+          {
+            "strongs": "7858",
+            "hebrew": "וּבְשֶׁ֣טֶף",
+            "hebrew_greek": "υβτθω",
+            "english": "But with flood",
+            "morphology": "Conjunctive waw, Preposition-b :: Noun - masculine singular"
+          },
+          {
+            "strongs": "5674",
+            "hebrew": "עֹבֵ֔ר",
+            "hebrew_greek": "οβσ",
+            "english": "an overflowing",
+            "morphology": "Verb - Qal - Participle - masculine singular"
+          },
+          {
+            "strongs": "3617",
+            "hebrew": "כָּלָ֖ה",
+            "hebrew_greek": "κλε",
+            "english": "an utter end",
+            "morphology": "Noun - feminine singular"
+          },
+          {
+            "strongs": "6213",
+            "hebrew": "יַעֲשֶׂ֣ה",
+            "hebrew_greek": "ιοτε",
+            "english": "of He will make",
+            "morphology": "Verb - Qal - Imperfect - third person masculine singular"
+          },
+          {
+            "strongs": "4725",
+            "hebrew": "מְקוֹמָ֑הּ",
+            "hebrew_greek": "μρυμε",
+            "english": "its place",
+            "morphology": "Noun - masculine singular construct :: third person feminine singular"
+          },
+          {
+            "strongs": "341",
+            "hebrew": "וְאֹיְבָ֖יו",
+            "hebrew_greek": "υαιβιυ",
+            "english": "and His enemies",
+            "morphology": "Conjunctive waw :: Verb - Qal - Participle - masculine plural construct :: third person masculine singular"
+          },
+          {
+            "strongs": "7291",
+            "hebrew": "יְרַדֶּף־",
+            "hebrew_greek": "ισδω",
+            "english": "will pursue",
+            "morphology": "Verb - Piel - Imperfect - third person masculine singular"
+          },
+          {
+            "strongs": "2822",
+            "hebrew": ".  חֹֽשֶׁךְ׃",
+            "hebrew_greek": ".  ητφ",
+            "english": "darkness",
+            "morphology": "Noun - masculine singular"
+          }
+        ],
+        "9": [
+          {
+            "strongs": "4100",
+            "hebrew": "מַה־",
+            "hebrew_greek": "με",
+            "english": "What",
+            "morphology": "Interrogative"
+          },
+          {
+            "strongs": "2803",
+            "hebrew": "תְּחַשְּׁבוּן֙",
+            "hebrew_greek": "υητβυψ",
+            "english": "do you conspire",
+            "morphology": "Verb - Piel - Imperfect - second person masculine plural :: Paragogic nun"
+          },
+          {
+            "strongs": "413",
+            "hebrew": "אֶל־",
+            "hebrew_greek": "αλ",
+            "english": "against",
+            "morphology": "Preposition"
+          },
+          {
+            "strongs": "3068",
+            "hebrew": "؟  יְהוָ֔ה",
+            "hebrew_greek": "؟  ιευε",
+            "english": "Yahweh",
+            "morphology": "Noun - proper - masculine singular"
+          },
+          {
+            "strongs": "3617",
+            "hebrew": "–  כָּלָ֖ה",
+            "hebrew_greek": "–  κλε",
+            "english": "an utter end [of it]",
+            "morphology": "Noun - feminine singular"
+          },
+          {
+            "strongs": "1931",
+            "hebrew": "ה֣וּא",
+            "hebrew_greek": "ευα",
+            "english": "He",
+            "morphology": "Pronoun - third person masculine singular"
+          },
+          {
+            "strongs": "6213",
+            "hebrew": "עֹשֶׂ֑ה",
+            "hebrew_greek": "οτε",
+            "english": "will make",
+            "morphology": "Verb - Qal - Participle - masculine singular"
+          },
+          {
+            "strongs": "3808",
+            "hebrew": "לֹֽא־",
+            "hebrew_greek": "λα",
+            "english": "not",
+            "morphology": "Adverb - Negative particle"
+          },
+          {
+            "strongs": "6965",
+            "hebrew": "תָק֥וּם",
+            "hebrew_greek": "υρυχ",
+            "english": "will rise up",
+            "morphology": "Verb - Qal - Imperfect - third person feminine singular"
+          },
+          {
+            "strongs": "6471",
+            "hebrew": "פַּעֲמַ֖יִם",
+            "hebrew_greek": "πομιχ",
+            "english": "a second time",
+            "morphology": "Noun - fd"
+          },
+          {
+            "strongs": "6869",
+            "hebrew": ".  צָרָֽה׃",
+            "hebrew_greek": ".  ϡσε",
+            "english": "Affliction",
+            "morphology": "Noun - feminine singular"
+          }
+        ],
+        "10": [
+          {
+            "strongs": "3588",
+            "hebrew": "כִּ֚י",
+            "hebrew_greek": "κι",
+            "english": "For",
+            "morphology": "Conjunction"
+          },
+          {
+            "strongs": "5704",
+            "hebrew": "עַד־",
+            "hebrew_greek": "οδ",
+            "english": "while",
+            "morphology": "Preposition"
+          },
+          {
+            "strongs": "5518",
+            "hebrew": "､  סִירִ֣ים",
+            "hebrew_greek": "､  ξισιχ",
+            "english": "[like] thorns",
+            "morphology": "Noun - feminine plural"
+          },
+          {
+            "strongs": "5440",
+            "hebrew": "סְבֻכִ֔ים",
+            "hebrew_greek": "ξβκιχ",
+            "english": "tangled",
+            "morphology": "Verb - Qal - QalPassParticiple - masculine plural"
+          },
+          {
+            "strongs": "5435",
+            "hebrew": "וּכְסָבְאָ֖ם",
+            "hebrew_greek": "υκξβαχ",
+            "english": "and while drunken",
+            "morphology": "Conjunctive waw, Preposition-k :: Noun - masculine singular construct :: third person masculine plural"
+          },
+          {
+            "strongs": "5433",
+            "hebrew": "､  סְבוּאִ֑ים",
+            "hebrew_greek": "､  ξβυαιχ",
+            "english": "[like] drunkards",
+            "morphology": "Verb - Qal - QalPassParticiple - masculine plural"
+          },
+          {
+            "strongs": "398",
+            "hebrew": "אֻ֨כְּל֔וּ",
+            "hebrew_greek": "ακλυ",
+            "english": "they shall be devoured",
+            "morphology": "Verb - QalPass - Perfect - third person common plural"
+          },
+          {
+            "strongs": "7179",
+            "hebrew": "כְּקַ֥שׁ",
+            "hebrew_greek": "κρτ",
+            "english": "like stubble",
+            "morphology": "Preposition-k :: Noun - masculine singular"
+          },
+          {
+            "strongs": "3002",
+            "hebrew": "יָבֵ֖שׁ",
+            "hebrew_greek": "ιβτ",
+            "english": "dried",
+            "morphology": "Adjective - masculine singular"
+          },
+          {
+            "strongs": "4390",
+            "hebrew": ".  מָלֵֽא׃",
+            "hebrew_greek": ".  μλα",
+            "english": "fully",
+            "morphology": "Adjective - masculine singular"
+          }
+        ],
+        "11": [
+          {
+            "strongs": "4480",
+            "hebrew": "מִמֵּ֣ךְ",
+            "hebrew_greek": "μμφ",
+            "english": "From you",
+            "morphology": "Preposition :: second person feminine singular"
+          },
+          {
+            "strongs": "3318",
+            "hebrew": "יָצָ֔א",
+            "hebrew_greek": "ιϡα",
+            "english": "comes forth [one]",
+            "morphology": "Verb - Qal - Perfect - third person masculine singular"
+          },
+          {
+            "strongs": "2803",
+            "hebrew": "חֹשֵׁ֥ב",
+            "hebrew_greek": "ητβ",
+            "english": "who plots",
+            "morphology": "Verb - Qal - Participle - masculine singular"
+          },
+          {
+            "strongs": "5921",
+            "hebrew": "עַל־",
+            "hebrew_greek": "ολ",
+            "english": "against",
+            "morphology": "Preposition"
+          },
+          {
+            "strongs": "3068",
+            "hebrew": "､  יְהוָ֖ה",
+            "hebrew_greek": "､  ιευε",
+            "english": "Yahweh",
+            "morphology": "Noun - proper - masculine singular"
+          },
+          {
+            "strongs": "7451",
+            "hebrew": "רָעָ֑ה",
+            "hebrew_greek": "σοε",
+            "english": "evil",
+            "morphology": "Adjective - feminine singular"
+          },
+          {
+            "strongs": "3289",
+            "hebrew": "יֹעֵ֖ץ",
+            "hebrew_greek": "ιοϡ",
+            "english": "a counselor",
+            "morphology": "Verb - Qal - Participle - masculine singular construct"
+          },
+          {
+            "strongs": "1100",
+            "hebrew": ".  בְּלִיָּֽעַל׃",
+            "hebrew_greek": ".  βλιολ",
+            "english": "wicked",
+            "morphology": "Noun - masculine singular"
+          }
+        ],
+        "12": [
+          {
+            "strongs": "3541",
+            "hebrew": "כֹּ֣ה ׀",
+            "hebrew_greek": "κε ",
+            "english": "Thus",
+            "morphology": "Adverb"
+          },
+          {
+            "strongs": "559",
+            "hebrew": "אָמַ֣ר",
+            "hebrew_greek": "αμσ",
+            "english": "says",
+            "morphology": "Verb - Qal - Perfect - third person masculine singular"
+          },
+          {
+            "strongs": "3068",
+            "hebrew": "–  יְהוָ֗ה",
+            "hebrew_greek": "–  ιευε",
+            "english": "Yahweh",
+            "morphology": "Noun - proper - masculine singular"
+          },
+          {
+            "strongs": "518",
+            "hebrew": "אִם־",
+            "hebrew_greek": "αχ",
+            "english": "Though",
+            "morphology": "Conjunction"
+          },
+          {
+            "strongs": "8003",
+            "hebrew": "､  שְׁלֵמִים֙",
+            "hebrew_greek": "､  τλμιχ",
+            "english": "[they are] safe",
+            "morphology": "Adjective - masculine plural"
+          },
+          {
+            "strongs": "3651",
+            "hebrew": "וְכֵ֣ן",
+            "hebrew_greek": "υκψ",
+            "english": "and likewise",
+            "morphology": "Conjunctive waw :: Adverb"
+          },
+          {
+            "strongs": "7227",
+            "hebrew": "､  רַבִּ֔ים",
+            "hebrew_greek": "､  σβιχ",
+            "english": "many",
+            "morphology": "Adjective - masculine plural"
+          },
+          {
+            "strongs": "3651",
+            "hebrew": "וְכֵ֥ן",
+            "hebrew_greek": "υκψ",
+            "english": "and yet in this manner",
+            "morphology": "Conjunctive waw :: Adverb"
+          },
+          {
+            "strongs": "1494",
+            "hebrew": "､  נָגֹ֖זּוּ",
+            "hebrew_greek": "､  νγζυ",
+            "english": "they will be cut down",
+            "morphology": "Verb - Nifal - Perfect - third person common plural"
+          },
+          {
+            "strongs": "5674",
+            "hebrew": ".  וְעָבָ֑ר",
+            "hebrew_greek": ".  υοβσ",
+            "english": "and when he passes through",
+            "morphology": "Conjunctive waw :: Verb - Qal - Conjunctive perfect - third person masculine singular"
+          },
+          {
+            "strongs": "6031",
+            "hebrew": "וְעִ֨נִּתִ֔ךְ",
+            "hebrew_greek": "υονυφ",
+            "english": "And Though I have afflicted you",
+            "morphology": "Conjunctive waw :: Verb - Piel - Conjunctive perfect - first person common singular :: second person feminine singular"
+          },
+          {
+            "strongs": "3808",
+            "hebrew": "לֹ֥א",
+            "hebrew_greek": "λα",
+            "english": "no",
+            "morphology": "Adverb - Negative particle"
+          },
+          {
+            "strongs": "6031",
+            "hebrew": "אֲעַנֵּ֖ךְ",
+            "hebrew_greek": "αονφ",
+            "english": "I will afflict you",
+            "morphology": "Verb - Piel - Imperfect - first person common singular :: second person feminine singular"
+          },
+          {
+            "strongs": "5750",
+            "hebrew": ".  עֽוֹד׃",
+            "hebrew_greek": ".  ουδ",
+            "english": "more",
+            "morphology": "Adverb"
+          }
+        ],
+        "13": [
+          {
+            "strongs": "6258",
+            "hebrew": "וְעַתָּ֕ה",
+            "hebrew_greek": "υουε",
+            "english": "For now",
+            "morphology": "Conjunctive waw :: Adverb"
+          },
+          {
+            "strongs": "7665",
+            "hebrew": "אֶשְׁבֹּ֥ר",
+            "hebrew_greek": "ατβσ",
+            "english": "I will break off",
+            "morphology": "Verb - Qal - Imperfect - first person common singular"
+          },
+          {
+            "strongs": "4132",
+            "hebrew": "מֹטֵ֖הוּ",
+            "hebrew_greek": "μθευ",
+            "english": "his yoke",
+            "morphology": "Noun - masculine singular construct :: third person masculine singular"
+          },
+          {
+            "strongs": "5921",
+            "hebrew": "מֵֽעָלָ֑יִךְ",
+            "hebrew_greek": "μολιφ",
+            "english": "from you",
+            "morphology": "Preposition-m :: second person feminine singular"
+          },
+          {
+            "strongs": "4147",
+            "hebrew": "וּמוֹסְרֹתַ֖יִךְ",
+            "hebrew_greek": "υμυξσυιφ",
+            "english": "and your bonds",
+            "morphology": "Conjunctive waw :: Noun - masculine plural construct :: second person feminine singular"
+          },
+          {
+            "strongs": "5423",
+            "hebrew": ".  אֲנַתֵּֽק׃",
+            "hebrew_greek": ".  ανυρ",
+            "english": "burst apart",
+            "morphology": "Verb - Piel - Imperfect - first person common singular"
+          }
+        ],
+        "14": [
+          {
+            "strongs": "6680",
+            "hebrew": "וְצִוָּ֤ה",
+            "hebrew_greek": "υϡυε",
+            "english": "And has given a command",
+            "morphology": "Conjunctive waw :: Verb - Piel - Conjunctive perfect - third person masculine singular"
+          },
+          {
+            "strongs": "5921",
+            "hebrew": "עָלֶ֙יךָ֙",
+            "hebrew_greek": "ολιφ",
+            "english": "concerning you",
+            "morphology": "Preposition :: second person masculine singular"
+          },
+          {
+            "strongs": "3068",
+            "hebrew": "יְהוָ֔ה",
+            "hebrew_greek": "ιευε",
+            "english": "Yahweh",
+            "morphology": "Noun - proper - masculine singular"
+          },
+          {
+            "strongs": "3808",
+            "hebrew": "לֹֽא־",
+            "hebrew_greek": "λα",
+            "english": "no",
+            "morphology": "Adverb - Negative particle"
+          },
+          {
+            "strongs": "2232",
+            "hebrew": ".  יִזָּרַ֥ע",
+            "hebrew_greek": ".  ιζσο",
+            "english": "shall be perpetuated",
+            "morphology": "Verb - Nifal - Imperfect - third person masculine singular"
+          },
+          {
+            "strongs": "8034",
+            "hebrew": "מִשִּׁמְךָ֖",
+            "hebrew_greek": "μτμφ",
+            "english": "Your name",
+            "morphology": "Preposition-m :: Noun - masculine singular construct :: second person masculine singular"
+          },
+          {
+            "strongs": "5750",
+            "hebrew": "ע֑וֹד",
+            "hebrew_greek": "ουδ",
+            "english": "longer",
+            "morphology": "Adverb"
+          },
+          {
+            "strongs": "1004",
+            "hebrew": "מִבֵּ֨ית",
+            "hebrew_greek": "μβιυ",
+            "english": "Out of the house",
+            "morphology": "Preposition-m :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "430",
+            "hebrew": "אֱלֹהֶ֜יךָ",
+            "hebrew_greek": "αλειφ",
+            "english": "of your gods",
+            "morphology": "Noun - masculine plural construct :: second person masculine singular"
+          },
+          {
+            "strongs": "3772",
+            "hebrew": "אַכְרִ֨ית",
+            "hebrew_greek": "ακσιυ",
+            "english": "I will cut off",
+            "morphology": "Verb - Hifil - Imperfect - first person common singular"
+          },
+          {
+            "strongs": "6459",
+            "hebrew": "פֶּ֧סֶל",
+            "hebrew_greek": "πξλ",
+            "english": "the carved image",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "4541",
+            "hebrew": "–  וּמַסֵּכָ֛ה",
+            "hebrew_greek": "–  υμξκε",
+            "english": "and the molded image",
+            "morphology": "Conjunctive waw :: Noun - feminine singular"
+          },
+          {
+            "strongs": "7760",
+            "hebrew": "אָשִׂ֥ים",
+            "hebrew_greek": "ατιχ",
+            "english": "I will dig",
+            "morphology": "Verb - Qal - Imperfect - first person common singular"
+          },
+          {
+            "strongs": "6913",
+            "hebrew": "–  קִבְרֶ֖ךָ",
+            "hebrew_greek": "–  ρβσφ",
+            "english": "your grave",
+            "morphology": "Noun - masculine singular construct :: second person masculine singular"
+          },
+          {
+            "strongs": "3588",
+            "hebrew": "כִּ֥י",
+            "hebrew_greek": "κι",
+            "english": "for",
+            "morphology": "Conjunction"
+          },
+          {
+            "strongs": "7043",
+            "hebrew": ".  קַלּֽוֹתָ׃",
+            "hebrew_greek": ".  ρλυυ",
+            "english": "you are vile",
+            "morphology": "Verb - Qal - Perfect - second person masculine singular"
+          }
+        ],
+        "15": [
+          {
+            "strongs": "2009",
+            "hebrew": "הִנֵּ֨ה",
+            "hebrew_greek": "ενε",
+            "english": "Behold",
+            "morphology": "Interjection"
+          },
+          {
+            "strongs": "5921",
+            "hebrew": "עַל־",
+            "hebrew_greek": "ολ",
+            "english": "on",
+            "morphology": "Preposition"
+          },
+          {
+            "strongs": "2022",
+            "hebrew": "הֶהָרִ֜ים",
+            "hebrew_greek": "εεσιχ",
+            "english": "the mountains",
+            "morphology": "Article :: Noun - masculine plural"
+          },
+          {
+            "strongs": "7272",
+            "hebrew": "רַגְלֵ֤י",
+            "hebrew_greek": "σγλι",
+            "english": "the feet",
+            "morphology": "Noun - fdc"
+          },
+          {
+            "strongs": "1319",
+            "hebrew": "､  מְבַשֵּׂר֙",
+            "hebrew_greek": "､  μβτσ",
+            "english": "of him who brings good tidings",
+            "morphology": "Verb - Piel - Participle - masculine singular"
+          },
+          {
+            "strongs": "8085",
+            "hebrew": "מַשְׁמִ֣יעַ",
+            "hebrew_greek": "μτμιο",
+            "english": "who proclaims",
+            "morphology": "Verb - Hifil - Participle - masculine singular"
+          },
+          {
+            "strongs": "7965",
+            "hebrew": "!  שָׁל֔וֹם",
+            "hebrew_greek": "!  τλυχ",
+            "english": "peace",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "2287",
+            "hebrew": "חָגִּ֧י",
+            "hebrew_greek": "ηγι",
+            "english": "keep",
+            "morphology": "Verb - Qal - Imperative - feminine singular"
+          },
+          {
+            "strongs": "3063",
+            "hebrew": "､  יְהוּדָ֛ה",
+            "hebrew_greek": "､  ιευδε",
+            "english": "Judah",
+            "morphology": "Noun - proper - masculine singular"
+          },
+          {
+            "strongs": "2282",
+            "hebrew": "､  חַגַּ֖יִךְ",
+            "hebrew_greek": "､  ηγιφ",
+            "english": "your [appointed] feasts",
+            "morphology": "Noun - masculine plural construct :: second person feminine singular"
+          },
+          {
+            "strongs": "7999",
+            "hebrew": "שַׁלְּמִ֣י",
+            "hebrew_greek": "τλμι",
+            "english": "Perform",
+            "morphology": "Verb - Piel - Imperative - feminine singular"
+          },
+          {
+            "strongs": "5088",
+            "hebrew": ".  נְדָרָ֑יִךְ",
+            "hebrew_greek": ".  νδσιφ",
+            "english": "your vows",
+            "morphology": "Noun - masculine plural construct :: second person feminine singular"
+          },
+          {
+            "strongs": "3588",
+            "hebrew": "כִּי֩",
+            "hebrew_greek": "κι",
+            "english": "For",
+            "morphology": "Conjunction"
+          },
+          {
+            "strongs": "3808",
+            "hebrew": "לֹ֨א",
+            "hebrew_greek": "λα",
+            "english": "no",
+            "morphology": "Adverb - Negative particle"
+          },
+          {
+            "strongs": "3254",
+            "hebrew": "יוֹסִ֥יף",
+            "hebrew_greek": "ιυξιω",
+            "english": "more",
+            "morphology": "Verb - Hifil - Imperfect - third person masculine singular"
+          },
+          {
+            "strongs": "5750",
+            "hebrew": "ע֛וֹד",
+            "hebrew_greek": "ουδ",
+            "english": "more",
+            "morphology": "Adverb"
+          },
+          {
+            "strongs": "5674",
+            "hebrew": "(לַֽעֲבָר־)",
+            "hebrew_greek": "(λοβσ)",
+            "english": "shall pass through",
+            "morphology": "Preposition-l :: Verb - Qal - Infinitive construct"
+          },
+          {
+            "strongs": "5674",
+            "hebrew": "בָּ֥ךְ",
+            "hebrew_greek": "βφ",
+            "english": "you",
+            "morphology": "Preposition :: second person feminine singular"
+          },
+          {
+            "strongs": "1100",
+            "hebrew": "בְּלִיַּ֖עַל",
+            "hebrew_greek": "βλιολ",
+            "english": "the wicked one",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "3605",
+            "hebrew": "כֻּלֹּ֥ה",
+            "hebrew_greek": "κλε",
+            "english": "utterly",
+            "morphology": "Noun - masculine singular construct :: third person masculine singular"
+          },
+          {
+            "strongs": "3772",
+            "hebrew": ".  נִכְרָֽת׃",
+            "hebrew_greek": ".  νκσυ",
+            "english": "He is cut off",
+            "morphology": "Verb - Nifal - Perfect - third person masculine singular"
+          }
+        ]
+      },
+      "2": {
+        "1": [
+          {
+            "strongs": "5927",
+            "hebrew": "עָלָ֥ה",
+            "hebrew_greek": "ολε",
+            "english": "Has come up",
+            "morphology": "Verb - Qal - Perfect - third person masculine singular"
+          },
+          {
+            "strongs": "6327",
+            "hebrew": "מֵפִ֛יץ",
+            "hebrew_greek": "μπιϡ",
+            "english": "He who scatters",
+            "morphology": "Verb - Hifil - Participle - masculine singular"
+          },
+          {
+            "strongs": "5921",
+            "hebrew": "עַל־",
+            "hebrew_greek": "ολ",
+            "english": "before",
+            "morphology": "Preposition"
+          },
+          {
+            "strongs": "6440",
+            "hebrew": "–  פָּנַ֖יִךְ",
+            "hebrew_greek": "–  πνιφ",
+            "english": "your face",
+            "morphology": "Noun - masculine plural construct :: second person feminine singular"
+          },
+          {
+            "strongs": "5341",
+            "hebrew": "נָצ֣וֹר",
+            "hebrew_greek": "νϡυσ",
+            "english": "Man",
+            "morphology": "Verb - Qal - Infinitive absolute"
+          },
+          {
+            "strongs": "4694",
+            "hebrew": "､  מְצֻרָ֑ה",
+            "hebrew_greek": "､  μϡσε",
+            "english": "the fort",
+            "morphology": "Noun - feminine singular"
+          },
+          {
+            "strongs": "6822",
+            "hebrew": "צַפֵּה־",
+            "hebrew_greek": "ϡπε",
+            "english": "Watch",
+            "morphology": "Verb - Piel - Imperative - masculine singular"
+          },
+          {
+            "strongs": "1870",
+            "hebrew": "､  דֶ֙רֶךְ֙",
+            "hebrew_greek": "､  δσφ",
+            "english": "the road",
+            "morphology": "Noun - common singular"
+          },
+          {
+            "strongs": "2388",
+            "hebrew": "חַזֵּ֣ק",
+            "hebrew_greek": "ηζρ",
+            "english": "Strengthen",
+            "morphology": "Verb - Piel - Imperative - masculine singular"
+          },
+          {
+            "strongs": "4975",
+            "hebrew": "､  מָתְנַ֔יִם",
+            "hebrew_greek": "､  μυνιχ",
+            "english": "[your] flanks",
+            "morphology": "Noun - md"
+          },
+          {
+            "strongs": "553",
+            "hebrew": "אַמֵּ֥ץ",
+            "hebrew_greek": "αμϡ",
+            "english": "Fortify",
+            "morphology": "Verb - Piel - Imperative - masculine singular"
+          },
+          {
+            "strongs": "3581",
+            "hebrew": "כֹּ֖חַ",
+            "hebrew_greek": "κη",
+            "english": "[your] power",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "3966",
+            "hebrew": ".  מְאֹֽד׃",
+            "hebrew_greek": ".  μαδ",
+            "english": "mightily",
+            "morphology": "Adverb"
+          }
+        ],
+        "2": [
+          {
+            "strongs": "3588",
+            "hebrew": "כִּ֣י",
+            "hebrew_greek": "κι",
+            "english": "For",
+            "morphology": "Conjunction"
+          },
+          {
+            "strongs": "7725",
+            "hebrew": "שָׁ֤ב",
+            "hebrew_greek": "τβ",
+            "english": "will restore",
+            "morphology": "Verb - Qal - Perfect - third person masculine singular"
+          },
+          {
+            "strongs": "3068",
+            "hebrew": "יְהוָה֙",
+            "hebrew_greek": "ιευε",
+            "english": "Yahweh",
+            "morphology": "Noun - proper - masculine singular"
+          },
+          {
+            "strongs": "853",
+            "hebrew": "אֶת־",
+            "hebrew_greek": "αυ",
+            "english": "-",
+            "morphology": "Direct object marker"
+          },
+          {
+            "strongs": "1347",
+            "hebrew": "גְּא֣וֹן",
+            "hebrew_greek": "γαυψ",
+            "english": "the excellence",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "3290",
+            "hebrew": "､  יַעֲקֹ֔ב",
+            "hebrew_greek": "､  ιορβ",
+            "english": "of Jacob",
+            "morphology": "Noun - proper - masculine singular"
+          },
+          {
+            "strongs": "1347",
+            "hebrew": "כִּגְא֖וֹן",
+            "hebrew_greek": "κγαυψ",
+            "english": "Like the excellence",
+            "morphology": "Preposition-k :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "3478",
+            "hebrew": "､  יִשְׂרָאֵ֑ל",
+            "hebrew_greek": "､  ιτσαλ",
+            "english": "of Israel",
+            "morphology": "Noun - proper - masculine singular"
+          },
+          {
+            "strongs": "3588",
+            "hebrew": "כִּ֤י",
+            "hebrew_greek": "κι",
+            "english": "for",
+            "morphology": "Conjunction"
+          },
+          {
+            "strongs": "1238",
+            "hebrew": "בְקָקוּם֙",
+            "hebrew_greek": "βρρυχ",
+            "english": "have emptied them out",
+            "morphology": "Verb - Qal - Perfect - third person common plural :: third person masculine plural"
+          },
+          {
+            "strongs": "1238",
+            "hebrew": "בֹּֽקְקִ֔ים",
+            "hebrew_greek": "βρριχ",
+            "english": "the emptiers",
+            "morphology": "Verb - Qal - Participle - masculine plural"
+          },
+          {
+            "strongs": "2156",
+            "hebrew": "וּזְמֹרֵיהֶ֖ם",
+            "hebrew_greek": "υζμσιεχ",
+            "english": "and their vine branches",
+            "morphology": "Conjunctive waw :: Noun - feminine plural construct :: third person masculine plural"
+          },
+          {
+            "strongs": "7843",
+            "hebrew": ".  שִׁחֵֽתוּ׃",
+            "hebrew_greek": ".  τηυυ",
+            "english": "ruined",
+            "morphology": "Verb - Piel - Perfect - third person common plural"
+          }
+        ],
+        "3": [
+          {
+            "strongs": "4043",
+            "hebrew": "מָגֵ֨ן",
+            "hebrew_greek": "μγψ",
+            "english": "The shields",
+            "morphology": "Noun - common singular construct"
+          },
+          {
+            "strongs": "1368",
+            "hebrew": "גִּבֹּרֵ֜יהוּ",
+            "hebrew_greek": "γβσιευ",
+            "english": "of his mighty men",
+            "morphology": "Adjective - masculine plural construct :: third person masculine singular"
+          },
+          {
+            "strongs": "119",
+            "hebrew": "､  מְאָדָּ֗ם",
+            "hebrew_greek": "､  μαδχ",
+            "english": "[are] made red",
+            "morphology": "Verb - Pual - Participle - masculine singular"
+          },
+          {
+            "strongs": "376",
+            "hebrew": "אַנְשֵׁי־",
+            "hebrew_greek": "αντι",
+            "english": "the men [are]",
+            "morphology": "Noun - masculine plural construct"
+          },
+          {
+            "strongs": "2428",
+            "hebrew": "חַ֙יִל֙",
+            "hebrew_greek": "ηιλ",
+            "english": "valiant",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "8529",
+            "hebrew": "–  מְתֻלָּעִ֔ים",
+            "hebrew_greek": "–  μυλοιχ",
+            "english": "in scarlet",
+            "morphology": "Verb - Pual - Participle - masculine plural"
+          },
+          {
+            "strongs": "784",
+            "hebrew": "בְּאֵשׁ־",
+            "hebrew_greek": "βατ",
+            "english": "with flaming",
+            "morphology": "Preposition-b :: Noun - common singular construct"
+          },
+          {
+            "strongs": "6393",
+            "hebrew": "פְּלָד֥וֹת",
+            "hebrew_greek": "πλδυυ",
+            "english": "torches",
+            "morphology": "Noun - feminine plural"
+          },
+          {
+            "strongs": "7393",
+            "hebrew": "הָרֶ֖כֶב",
+            "hebrew_greek": "εσκβ",
+            "english": "the chariots [come]",
+            "morphology": "Article :: Noun - masculine singular"
+          },
+          {
+            "strongs": "3117",
+            "hebrew": "בְּי֣וֹם",
+            "hebrew_greek": "βιυχ",
+            "english": "in the day",
+            "morphology": "Preposition-b :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "3559",
+            "hebrew": "､  הֲכִינ֑וֹ",
+            "hebrew_greek": "､  εκινυ",
+            "english": "of his preparation",
+            "morphology": "Verb - Hifil - Infinitive construct :: third person masculine singular"
+          },
+          {
+            "strongs": "1265",
+            "hebrew": "וְהַבְּרֹשִׁ֖ים",
+            "hebrew_greek": "υεβστιχ",
+            "english": "and the spears",
+            "morphology": "Conjunctive waw, Article :: Noun - masculine plural"
+          },
+          {
+            "strongs": "7477",
+            "hebrew": ".  הָרְעָֽלוּ׃",
+            "hebrew_greek": ".  εσολυ",
+            "english": "are brandished",
+            "morphology": "Verb - Hofal - Perfect - third person common plural"
+          }
+        ],
+        "4": [
+          {
+            "strongs": "2351",
+            "hebrew": "､  בַּֽחוּצוֹת֙",
+            "hebrew_greek": "､  βηυϡυυ",
+            "english": "In the streets",
+            "morphology": "Preposition-b, Article :: Noun - masculine plural"
+          },
+          {
+            "strongs": "1984",
+            "hebrew": "יִתְהוֹלְל֣וּ",
+            "hebrew_greek": "ιυευλλυ",
+            "english": "rage",
+            "morphology": "Verb - Hitpael - Imperfect - third person masculine plural"
+          },
+          {
+            "strongs": "7393",
+            "hebrew": "הָרֶ֔כֶב",
+            "hebrew_greek": "εσκβ",
+            "english": "the chariots",
+            "morphology": "Article :: Noun - masculine singular"
+          },
+          {
+            "strongs": "8264",
+            "hebrew": "יִֽשְׁתַּקְשְׁק֖וּן",
+            "hebrew_greek": "ιτυρτρυψ",
+            "english": "they jostle one another",
+            "morphology": "Verb - Hitpael - Imperfect - third person masculine plural :: Paragogic nun"
+          },
+          {
+            "strongs": "7339",
+            "hebrew": "､  בָּרְחֹב֑וֹת",
+            "hebrew_greek": "､  βσηβυυ",
+            "english": "in the broad [roads]",
+            "morphology": "Preposition-b, Article :: Noun - masculine plural"
+          },
+          {
+            "strongs": "4758",
+            "hebrew": "מַרְאֵיהֶן֙",
+            "hebrew_greek": "μσαιεψ",
+            "english": "they seem",
+            "morphology": "Noun - masculine plural construct :: third person feminine plural"
+          },
+          {
+            "strongs": "3940",
+            "hebrew": "､  כַּלַּפִּידִ֔ם",
+            "hebrew_greek": "､  κλπιδχ",
+            "english": "like torches",
+            "morphology": "Preposition-k, Article :: Noun - masculine plural"
+          },
+          {
+            "strongs": "1300",
+            "hebrew": "כַּבְּרָקִ֖ים",
+            "hebrew_greek": "κβσριχ",
+            "english": "like lightning",
+            "morphology": "Preposition-k, Article :: Noun - masculine plural"
+          },
+          {
+            "strongs": "7323",
+            "hebrew": ".  יְרוֹצֵֽצוּ׃",
+            "hebrew_greek": ".  ισυϡϡυ",
+            "english": "they run",
+            "morphology": "Verb - Piel - Imperfect - third person masculine plural"
+          }
+        ],
+        "5": [
+          {
+            "strongs": "2142",
+            "hebrew": "יִזְכֹּר֙",
+            "hebrew_greek": "ιζκσ",
+            "english": "He remembers",
+            "morphology": "Verb - Qal - Imperfect - third person masculine singular"
+          },
+          {
+            "strongs": "117",
+            "hebrew": "–  אַדִּירָ֔יו",
+            "hebrew_greek": "–  αδισιυ",
+            "english": "his nobles",
+            "morphology": "Noun - masculine plural construct :: third person masculine singular"
+          },
+          {
+            "strongs": "3782",
+            "hebrew": "יִכָּשְׁל֖וּ",
+            "hebrew_greek": "ικτλυ",
+            "english": "they stumble",
+            "morphology": "Verb - Nifal - Imperfect - third person masculine plural"
+          },
+          {
+            "strongs": "1979",
+            "hebrew": "–  (בַּהֲלִֽיכָתָ֑ם)",
+            "hebrew_greek": "–  (βελικυχ)",
+            "english": "in their walk",
+            "morphology": "Preposition-b :: Noun - feminine singular construct :: third person masculine plural"
+          },
+          {
+            "strongs": "4116",
+            "hebrew": "יְמַֽהֲרוּ֙",
+            "hebrew_greek": "ιμεσυ",
+            "english": "they make haste",
+            "morphology": "Verb - Piel - Imperfect - third person masculine plural"
+          },
+          {
+            "strongs": "2346",
+            "hebrew": "חֽוֹמָתָ֔הּ",
+            "hebrew_greek": "ηυμυε",
+            "english": "to her walls",
+            "morphology": "Noun - feminine singular construct :: third person feminine singular"
+          },
+          {
+            "strongs": "3559",
+            "hebrew": "וְהֻכַ֖ן",
+            "hebrew_greek": "υεκψ",
+            "english": "and is prepared",
+            "morphology": "Conjunctive waw :: Verb - Hofal - Conjunctive perfect - third person masculine singular"
+          },
+          {
+            "strongs": "5526",
+            "hebrew": ".  הַסֹּכֵֽךְ׃",
+            "hebrew_greek": ".  εξκφ",
+            "english": "the defense",
+            "morphology": "Article :: Noun - masculine singular"
+          }
+        ],
+        "6": [
+          {
+            "strongs": "8179",
+            "hebrew": "שַׁעֲרֵ֥י",
+            "hebrew_greek": "τοσι",
+            "english": "The gates",
+            "morphology": "Noun - masculine plural construct"
+          },
+          {
+            "strongs": "5104",
+            "hebrew": "הַנְּהָר֖וֹת",
+            "hebrew_greek": "ενεσυυ",
+            "english": "of the rivers",
+            "morphology": "Article :: Noun - masculine plural"
+          },
+          {
+            "strongs": "6605",
+            "hebrew": "､  נִפְתָּ֑חוּ",
+            "hebrew_greek": "､  νπυηυ",
+            "english": "are opened",
+            "morphology": "Verb - Nifal - Perfect - third person common plural"
+          },
+          {
+            "strongs": "1964",
+            "hebrew": "וְהַֽהֵיכָ֖ל",
+            "hebrew_greek": "υεεικλ",
+            "english": "and the palace",
+            "morphology": "Conjunctive waw, Article :: Noun - masculine singular"
+          },
+          {
+            "strongs": "4127",
+            "hebrew": ".  נָמֽוֹג׃",
+            "hebrew_greek": ".  νμυγ",
+            "english": "is dissolved",
+            "morphology": "Verb - Nifal - Perfect - third person masculine singular"
+          }
+        ],
+        "7": [
+          {
+            "strongs": "5324",
+            "hebrew": "וְהֻצַּ֖ב",
+            "hebrew_greek": "υεϡβ",
+            "english": "And it is decreed",
+            "morphology": "Conjunctive waw :: Verb - Hofal - Conjunctive perfect - third person masculine singular"
+          },
+          {
+            "strongs": "1540",
+            "hebrew": "､  גֻּלְּתָ֣ה",
+            "hebrew_greek": "､  γλυε",
+            "english": "she shall be led away captive",
+            "morphology": "Verb - Pual - Perfect - third person feminine singular"
+          },
+          {
+            "strongs": "5927",
+            "hebrew": "､  הֹֽעֲלָ֑תָה",
+            "hebrew_greek": "､  εολυε",
+            "english": "she shall be brought up",
+            "morphology": "Verb - Hofal - Perfect - third person feminine singular"
+          },
+          {
+            "strongs": "519",
+            "hebrew": "וְאַמְהֹתֶ֗יהָ",
+            "hebrew_greek": "υαμευιε",
+            "english": "and her maidservants",
+            "morphology": "Conjunctive waw :: Noun - feminine plural construct :: third person feminine singular"
+          },
+          {
+            "strongs": "5090",
+            "hebrew": "מְנַֽהֲגוֹת֙",
+            "hebrew_greek": "μνεγυυ",
+            "english": "shall lead [her]",
+            "morphology": "Verb - Piel - Participle - feminine plural"
+          },
+          {
+            "strongs": "6963",
+            "hebrew": "כְּק֣וֹל",
+            "hebrew_greek": "κρυλ",
+            "english": "as with the voice",
+            "morphology": "Preposition-k :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "3123",
+            "hebrew": "､  יוֹנִ֔ים",
+            "hebrew_greek": "､  ιυνιχ",
+            "english": "of doves",
+            "morphology": "Noun - feminine plural"
+          },
+          {
+            "strongs": "8608",
+            "hebrew": "מְתֹפְפֹ֖ת",
+            "hebrew_greek": "μυππυ",
+            "english": "Beating",
+            "morphology": "Verb - Piel - Participle - feminine plural"
+          },
+          {
+            "strongs": "5921",
+            "hebrew": "עַל־",
+            "hebrew_greek": "ολ",
+            "english": "on",
+            "morphology": "Preposition"
+          },
+          {
+            "strongs": "3824",
+            "hebrew": ".  לִבְבֵהֶֽן׃",
+            "hebrew_greek": ".  λββεψ",
+            "english": "their breasts",
+            "morphology": "Noun - masculine plural construct :: third person feminine plural"
+          }
+        ],
+        "8": [
+          {
+            "strongs": "5210",
+            "hebrew": "וְנִינְוֵ֥ה",
+            "hebrew_greek": "υνινυε",
+            "english": "And Though Nineveh",
+            "morphology": "Conjunctive waw :: Noun - proper - feminine singular"
+          },
+          {
+            "strongs": "1295",
+            "hebrew": "כִבְרֵֽכַת־",
+            "hebrew_greek": "κβσκυ",
+            "english": "like a pool",
+            "morphology": "Preposition-k :: Noun - feminine singular construct"
+          },
+          {
+            "strongs": "4325",
+            "hebrew": "–  מַ֖יִם",
+            "hebrew_greek": "–  μιχ",
+            "english": "of water",
+            "morphology": "Noun - masculine plural"
+          },
+          {
+            "strongs": "3117",
+            "hebrew": "מִ֣ימֵי",
+            "hebrew_greek": "μιμι",
+            "english": "of old",
+            "morphology": "Preposition-m :: Noun - masculine plural construct"
+          },
+          {
+            "strongs": "1931",
+            "hebrew": "הִ֑יא",
+            "hebrew_greek": "εια",
+            "english": "was",
+            "morphology": "Pronoun - third person feminine singular"
+          },
+          {
+            "strongs": "1992",
+            "hebrew": "וְהֵ֣מָּה",
+            "hebrew_greek": "υεμε",
+            "english": "and they",
+            "morphology": "Conjunctive waw :: Pronoun - third person masculine plural"
+          },
+          {
+            "strongs": "5127",
+            "hebrew": ".  נָסִ֔ים",
+            "hebrew_greek": ".  νξιχ",
+            "english": "flee away",
+            "morphology": "Verb - Qal - Participle - masculine plural"
+          },
+          {
+            "strongs": "5975",
+            "hebrew": "עִמְד֥וּ",
+            "hebrew_greek": "ομδυ",
+            "english": "Halt",
+            "morphology": "Verb - Qal - Imperative - masculine plural"
+          },
+          {
+            "strongs": "5975",
+            "hebrew": "､  עֲמֹ֖דוּ",
+            "hebrew_greek": "､  ομδυ",
+            "english": "Halt [they cry]",
+            "morphology": "Verb - Qal - Imperative - masculine plural"
+          },
+          {
+            "strongs": "369",
+            "hebrew": "וְאֵ֥ין",
+            "hebrew_greek": "υαιψ",
+            "english": "but no one",
+            "morphology": "Conjunctive waw :: Adverb"
+          },
+          {
+            "strongs": "6437",
+            "hebrew": ".  מַפְנֶֽה׃",
+            "hebrew_greek": ".  μπνε",
+            "english": "turns back",
+            "morphology": "Verb - Hifil - Participle - masculine singular"
+          }
+        ],
+        "9": [
+          {
+            "strongs": "962",
+            "hebrew": "בֹּ֥זּוּ",
+            "hebrew_greek": "βζυ",
+            "english": "Take spoil",
+            "morphology": "Verb - Qal - Imperative - masculine plural"
+          },
+          {
+            "strongs": "3701",
+            "hebrew": "､  כֶ֖סֶף",
+            "hebrew_greek": "､  κξω",
+            "english": "of silver",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "962",
+            "hebrew": "בֹּ֣זּוּ",
+            "hebrew_greek": "βζυ",
+            "english": "take spoil",
+            "morphology": "Verb - Qal - Imperative - masculine plural"
+          },
+          {
+            "strongs": "2091",
+            "hebrew": "!  זָהָ֑ב",
+            "hebrew_greek": "!  ζεβ",
+            "english": "of gold",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "369",
+            "hebrew": "וְאֵ֥ין",
+            "hebrew_greek": "υαιψ",
+            "english": "and [There is] no",
+            "morphology": "Conjunctive waw :: Adverb"
+          },
+          {
+            "strongs": "7097",
+            "hebrew": "קֵ֙צֶה֙",
+            "hebrew_greek": "ρϡε",
+            "english": "end",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "8498",
+            "hebrew": "לַתְּכוּנָ֔ה",
+            "hebrew_greek": "λυκυνε",
+            "english": "of treasure",
+            "morphology": "Preposition-l, Article :: Noun - feminine singular"
+          },
+          {
+            "strongs": "3519",
+            "hebrew": "כָּבֹ֕ד",
+            "hebrew_greek": "κβδ",
+            "english": "Or wealth",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "3605",
+            "hebrew": "מִכֹּ֖ל",
+            "hebrew_greek": "μκλ",
+            "english": "of every",
+            "morphology": "Preposition-m :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "3627",
+            "hebrew": "כְּלִ֥י",
+            "hebrew_greek": "κλι",
+            "english": "prize",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "2532",
+            "hebrew": ".  חֶמְדָּֽה׃",
+            "hebrew_greek": ".  ημδε",
+            "english": "desirable",
+            "morphology": "Noun - feminine singular"
+          }
+        ],
+        "10": [
+          {
+            "strongs": "950",
+            "hebrew": "､  בּוּקָ֥ה",
+            "hebrew_greek": "､  βυρε",
+            "english": "She is empty",
+            "morphology": "Noun - feminine singular"
+          },
+          {
+            "strongs": "4003",
+            "hebrew": "､  וּמְבוּקָ֖ה",
+            "hebrew_greek": "､  υμβυρε",
+            "english": "and desolate",
+            "morphology": "Conjunctive waw :: Noun - feminine singular"
+          },
+          {
+            "strongs": "1110",
+            "hebrew": "!  וּמְבֻלָּקָ֑ה",
+            "hebrew_greek": "!  υμβλρε",
+            "english": "and waste",
+            "morphology": "Conjunctive waw :: Verb - Pual - Participle - feminine singular"
+          },
+          {
+            "strongs": "3820",
+            "hebrew": "וְלֵ֨ב",
+            "hebrew_greek": "υλβ",
+            "english": "and the heart",
+            "morphology": "Conjunctive waw :: Noun - masculine singular"
+          },
+          {
+            "strongs": "4549",
+            "hebrew": "､  נָמֵ֜ס",
+            "hebrew_greek": "､  νμξ",
+            "english": "melts",
+            "morphology": "Verb - Nifal - Participle - masculine singular"
+          },
+          {
+            "strongs": "6375",
+            "hebrew": "､  וּפִ֣ק",
+            "hebrew_greek": "､  υπρ",
+            "english": "and shake",
+            "morphology": "Conjunctive waw :: Noun - masculine singular"
+          },
+          {
+            "strongs": "1290",
+            "hebrew": "בִּרְכַּ֗יִם",
+            "hebrew_greek": "βσκιχ",
+            "english": "the knees",
+            "morphology": "Noun - fd"
+          },
+          {
+            "strongs": "2479",
+            "hebrew": "וְחַלְחָלָה֙",
+            "hebrew_greek": "υηληλε",
+            "english": "and [Much] pain [is]",
+            "morphology": "Conjunctive waw :: Noun - feminine singular"
+          },
+          {
+            "strongs": "3605",
+            "hebrew": "בְּכָל־",
+            "hebrew_greek": "βκλ",
+            "english": "in every",
+            "morphology": "Preposition-b :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "4975",
+            "hebrew": "､  מָתְנַ֔יִם",
+            "hebrew_greek": "､  μυνιχ",
+            "english": "side",
+            "morphology": "Noun - md"
+          },
+          {
+            "strongs": "6440",
+            "hebrew": "וּפְנֵ֥י",
+            "hebrew_greek": "υπνι",
+            "english": "and faces",
+            "morphology": "Conjunctive waw :: Noun - common plural construct"
+          },
+          {
+            "strongs": "3605",
+            "hebrew": "כֻלָּ֖ם",
+            "hebrew_greek": "κλχ",
+            "english": "all their",
+            "morphology": "Noun - masculine singular construct :: third person masculine plural"
+          },
+          {
+            "strongs": "6908",
+            "hebrew": "קִבְּצ֥וּ",
+            "hebrew_greek": "ρβϡυ",
+            "english": "are drained",
+            "morphology": "Verb - Piel - Perfect - third person common plural"
+          },
+          {
+            "strongs": "6289",
+            "hebrew": ".  פָארֽוּר׃",
+            "hebrew_greek": ".  πασυσ",
+            "english": "of color",
+            "morphology": "Noun - masculine singular"
+          }
+        ],
+        "11": [
+          {
+            "strongs": "346",
+            "hebrew": "אַיֵּה֙",
+            "hebrew_greek": "αιε",
+            "english": "Where",
+            "morphology": "Interrogative"
+          },
+          {
+            "strongs": "4583",
+            "hebrew": "מְע֣וֹן",
+            "hebrew_greek": "μουψ",
+            "english": "the dwelling",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "738",
+            "hebrew": "､  אֲרָי֔וֹת",
+            "hebrew_greek": "､  ασιυυ",
+            "english": "of the lions",
+            "morphology": "Noun - masculine plural"
+          },
+          {
+            "strongs": "4829",
+            "hebrew": "וּמִרְעֶ֥ה",
+            "hebrew_greek": "υμσοε",
+            "english": "and the feeding place",
+            "morphology": "Conjunctive waw :: Noun - masculine singular"
+          },
+          {
+            "strongs": "1931",
+            "hebrew": "ה֖וּא",
+            "hebrew_greek": "ευα",
+            "english": "is",
+            "morphology": "Pronoun - third person masculine singular"
+          },
+          {
+            "strongs": "3715",
+            "hebrew": "､  לַכְּפִרִ֑ים",
+            "hebrew_greek": "､  λκπσιχ",
+            "english": "of the young lions",
+            "morphology": "Preposition-l, Article :: Noun - masculine plural"
+          },
+          {
+            "strongs": "834",
+            "hebrew": "אֲשֶׁ֣ר",
+            "hebrew_greek": "ατσ",
+            "english": "where",
+            "morphology": "Pronoun - relative"
+          },
+          {
+            "strongs": "1980",
+            "hebrew": "､  הָלַךְ֩",
+            "hebrew_greek": "､  ελφ",
+            "english": "walked",
+            "morphology": "Verb - Qal - Perfect - third person masculine singular"
+          },
+          {
+            "strongs": "738",
+            "hebrew": "､  אַרְיֵ֨ה",
+            "hebrew_greek": "､  ασιε",
+            "english": "the lion",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "3833",
+            "hebrew": "､  לָבִ֥יא",
+            "hebrew_greek": "､  λβια",
+            "english": "the lioness",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "8033",
+            "hebrew": "שָׁ֛ם",
+            "hebrew_greek": "τχ",
+            "english": "there",
+            "morphology": "Adverb"
+          },
+          {
+            "strongs": "1482",
+            "hebrew": "､  גּ֥וּר",
+            "hebrew_greek": "､  γυσ",
+            "english": "[and] cub",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "738",
+            "hebrew": "אַרְיֵ֖ה",
+            "hebrew_greek": "ασιε",
+            "english": "of lion",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "369",
+            "hebrew": "וְאֵ֥ין",
+            "hebrew_greek": "υαιψ",
+            "english": "and no one",
+            "morphology": "Conjunctive waw :: Adverb"
+          },
+          {
+            "strongs": "2729",
+            "hebrew": "؟  מַחֲרִֽיד׃",
+            "hebrew_greek": "؟  μησιδ",
+            "english": "made [them] afraid",
+            "morphology": "Verb - Hifil - Participle - masculine singular"
+          }
+        ],
+        "12": [
+          {
+            "strongs": "738",
+            "hebrew": "אַרְיֵ֤ה",
+            "hebrew_greek": "ασιε",
+            "english": "the lion",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "2963",
+            "hebrew": "טֹרֵף֙",
+            "hebrew_greek": "θσω",
+            "english": "tore in pieces",
+            "morphology": "Verb - Qal - Participle - masculine singular"
+          },
+          {
+            "strongs": "1767",
+            "hebrew": "בְּדֵ֣י",
+            "hebrew_greek": "βδι",
+            "english": "enough for",
+            "morphology": "Preposition-b :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "1484",
+            "hebrew": "､  גֹֽרוֹתָ֔יו",
+            "hebrew_greek": "､  γσυυιυ",
+            "english": "his cubs",
+            "morphology": "Noun - masculine plural construct :: third person masculine singular"
+          },
+          {
+            "strongs": "2614",
+            "hebrew": "וּמְחַנֵּ֖ק",
+            "hebrew_greek": "υμηνρ",
+            "english": "and Killed",
+            "morphology": "Conjunctive waw :: Verb - Piel - Participle - masculine singular"
+          },
+          {
+            "strongs": "3833",
+            "hebrew": "､  לְלִבְאֹתָ֑יו",
+            "hebrew_greek": "､  λλβαυιυ",
+            "english": "for his lionesses",
+            "morphology": "Preposition-l :: Noun - feminine plural construct :: third person masculine singular"
+          },
+          {
+            "strongs": "4390",
+            "hebrew": "וַיְמַלֵּא־",
+            "hebrew_greek": "υιμλα",
+            "english": "and Filled",
+            "morphology": "Conjunctive waw :: Verb - Piel - Consecutive imperfect - third person masculine singular"
+          },
+          {
+            "strongs": "2964",
+            "hebrew": "､  טֶ֣רֶף",
+            "hebrew_greek": "､  θσω",
+            "english": "with prey",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "2356",
+            "hebrew": "חֹרָ֔יו",
+            "hebrew_greek": "ησιυ",
+            "english": "his caves",
+            "morphology": "Noun - masculine plural construct :: third person masculine singular"
+          },
+          {
+            "strongs": "4585",
+            "hebrew": "וּמְעֹֽנֹתָ֖יו",
+            "hebrew_greek": "υμονυιυ",
+            "english": "and his dens",
+            "morphology": "Conjunctive waw :: Noun - feminine plural construct :: third person masculine singular"
+          },
+          {
+            "strongs": "2966",
+            "hebrew": ".  טְרֵפָֽה׃",
+            "hebrew_greek": ".  θσπε",
+            "english": "with flesh",
+            "morphology": "Noun - feminine singular"
+          }
+        ],
+        "13": [
+          {
+            "strongs": "2005",
+            "hebrew": "הִנְנִ֣י",
+            "hebrew_greek": "εννι",
+            "english": "Behold I [am]",
+            "morphology": "Interjection :: first person common singular"
+          },
+          {
+            "strongs": "413",
+            "hebrew": "אֵלַ֗יִךְ",
+            "hebrew_greek": "αλιφ",
+            "english": "against you",
+            "morphology": "Preposition :: second person feminine singular"
+          },
+          {
+            "strongs": "5002",
+            "hebrew": "נְאֻם֙",
+            "hebrew_greek": "ναχ",
+            "english": "says",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "3068",
+            "hebrew": "יְהוָ֣ה",
+            "hebrew_greek": "ιευε",
+            "english": "Yahweh",
+            "morphology": "Noun - proper - masculine singular"
+          },
+          {
+            "strongs": "6635",
+            "hebrew": "､  צְבָא֔וֹת",
+            "hebrew_greek": "､  ϡβαυυ",
+            "english": "of hosts",
+            "morphology": "Noun - common plural"
+          },
+          {
+            "strongs": "1197",
+            "hebrew": "וְהִבְעַרְתִּ֤י",
+            "hebrew_greek": "υεβοσυι",
+            "english": "and I will burn",
+            "morphology": "Conjunctive waw :: Verb - Hifil - Conjunctive perfect - first person common singular"
+          },
+          {
+            "strongs": "6227",
+            "hebrew": "､  בֶֽעָשָׁן֙",
+            "hebrew_greek": "､  βοτψ",
+            "english": "in smoke",
+            "morphology": "Preposition-b, Article :: Noun - masculine singular"
+          },
+          {
+            "strongs": "7393",
+            "hebrew": "רִכְבָּ֔הּ",
+            "hebrew_greek": "σκβε",
+            "english": "your chariots",
+            "morphology": "Noun - masculine singular construct :: third person feminine singular"
+          },
+          {
+            "strongs": "3715",
+            "hebrew": "–  וּכְפִירַ֖יִךְ",
+            "hebrew_greek": "–  υκπισιφ",
+            "english": "and your young lions",
+            "morphology": "Conjunctive waw :: Noun - masculine plural construct :: second person feminine singular"
+          },
+          {
+            "strongs": "398",
+            "hebrew": "תֹּ֣אכַל",
+            "hebrew_greek": "υακλ",
+            "english": "shall devour",
+            "morphology": "Verb - Qal - Imperfect - third person feminine singular"
+          },
+          {
+            "strongs": "2719",
+            "hebrew": "חָ֑רֶב",
+            "hebrew_greek": "ησβ",
+            "english": "the sword",
+            "morphology": "Noun - feminine singular"
+          },
+          {
+            "strongs": "3772",
+            "hebrew": "וְהִכְרַתִּ֤י",
+            "hebrew_greek": "υεκσυι",
+            "english": "and I will cut off",
+            "morphology": "Conjunctive waw :: Verb - Hifil - Conjunctive perfect - first person common singular"
+          },
+          {
+            "strongs": "776",
+            "hebrew": "､  מֵאֶ֙רֶץ֙",
+            "hebrew_greek": "､  μασϡ",
+            "english": "from the earth",
+            "morphology": "Preposition-m :: Noun - feminine singular"
+          },
+          {
+            "strongs": "2964",
+            "hebrew": "טַרְפֵּ֔ךְ",
+            "hebrew_greek": "θσπφ",
+            "english": "your prey",
+            "morphology": "Noun - masculine singular construct :: second person feminine singular"
+          },
+          {
+            "strongs": "3808",
+            "hebrew": "וְלֹֽא־",
+            "hebrew_greek": "υλα",
+            "english": "and no",
+            "morphology": "Conjunctive waw :: Adverb - Negative particle"
+          },
+          {
+            "strongs": "8085",
+            "hebrew": ".  יִשָּׁמַ֥ע",
+            "hebrew_greek": ".  ιτμο",
+            "english": "shall be heard",
+            "morphology": "Verb - Nifal - Imperfect - third person masculine singular"
+          },
+          {
+            "strongs": "5750",
+            "hebrew": "ע֖וֹד",
+            "hebrew_greek": "ουδ",
+            "english": "More",
+            "morphology": "Adverb"
+          },
+          {
+            "strongs": "6963",
+            "hebrew": "ק֥וֹל",
+            "hebrew_greek": "ρυλ",
+            "english": "the voice",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "4397",
+            "hebrew": ".  מַלְאָכֵֽכֵה׃",
+            "hebrew_greek": ".  μλακκε",
+            "english": "of your messengers",
+            "morphology": "Noun - masculine plural construct :: second person feminine singular"
+          }
+        ]
+      },
+      "3": {
+        "1": [
+          {
+            "strongs": "1945",
+            "hebrew": "ה֖וֹי",
+            "hebrew_greek": "ευι",
+            "english": "Woe",
+            "morphology": "Interjection"
+          },
+          {
+            "strongs": "5892",
+            "hebrew": "!  עִ֣יר",
+            "hebrew_greek": "!  οισ",
+            "english": "to the city",
+            "morphology": "Noun - feminine singular construct"
+          },
+          {
+            "strongs": "1818",
+            "hebrew": "דָּמִ֑ים",
+            "hebrew_greek": "δμιχ",
+            "english": "bloody",
+            "morphology": "Noun - masculine plural"
+          },
+          {
+            "strongs": "3605",
+            "hebrew": "כֻּלָּ֗הּ",
+            "hebrew_greek": "κλε",
+            "english": "it [is] all",
+            "morphology": "Noun - masculine singular construct :: third person feminine singular"
+          },
+          {
+            "strongs": "3585",
+            "hebrew": "כַּ֤חַשׁ",
+            "hebrew_greek": "κητ",
+            "english": "lies",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "6563",
+            "hebrew": "–  פֶּ֙רֶק֙",
+            "hebrew_greek": "–  πσρ",
+            "english": "[and] robbery",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "4395",
+            "hebrew": "מְלֵאָ֔ה",
+            "hebrew_greek": "μλαε",
+            "english": "full",
+            "morphology": "Adjective - feminine singular"
+          },
+          {
+            "strongs": "3808",
+            "hebrew": "–  לֹ֥א",
+            "hebrew_greek": "–  λα",
+            "english": "of never",
+            "morphology": "Adverb - Negative particle"
+          },
+          {
+            "strongs": "4185",
+            "hebrew": "יָמִ֖ישׁ",
+            "hebrew_greek": "ιμιτ",
+            "english": "departs",
+            "morphology": "Verb - Hifil - Imperfect - third person masculine singular"
+          },
+          {
+            "strongs": "2964",
+            "hebrew": ".  טָֽרֶף׃",
+            "hebrew_greek": ".  θσω",
+            "english": "[Its] victim",
+            "morphology": "Noun - masculine singular"
+          }
+        ],
+        "2": [
+          {
+            "strongs": "6963",
+            "hebrew": "ק֣וֹל",
+            "hebrew_greek": "ρυλ",
+            "english": "The noise",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "7752",
+            "hebrew": "､  שׁ֔וֹט",
+            "hebrew_greek": "､  τυθ",
+            "english": "of a whip",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "6963",
+            "hebrew": "וְק֖וֹל",
+            "hebrew_greek": "υρυλ",
+            "english": "and the noise",
+            "morphology": "Conjunctive waw :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "7494",
+            "hebrew": "רַ֣עַשׁ",
+            "hebrew_greek": "σοτ",
+            "english": "of rattling",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "212",
+            "hebrew": "､  אוֹפָ֑ן",
+            "hebrew_greek": "､  αυπψ",
+            "english": "wheels",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "5483",
+            "hebrew": "､  וְס֣וּס",
+            "hebrew_greek": "､  υξυξ",
+            "english": "and of horses",
+            "morphology": "Conjunctive waw :: Noun - masculine singular"
+          },
+          {
+            "strongs": "1725",
+            "hebrew": "דֹּהֵ֔ר",
+            "hebrew_greek": "δεσ",
+            "english": "galloping",
+            "morphology": "Verb - Qal - Participle - masculine singular"
+          },
+          {
+            "strongs": "4818",
+            "hebrew": "וּמֶרְכָּבָ֖ה",
+            "hebrew_greek": "υμσκβε",
+            "english": "and of chariots",
+            "morphology": "Conjunctive waw :: Noun - feminine singular"
+          },
+          {
+            "strongs": "7540",
+            "hebrew": ".  מְרַקֵּדָֽה׃",
+            "hebrew_greek": ".  μσρδε",
+            "english": "clattering",
+            "morphology": "Verb - Piel - Participle - feminine singular"
+          }
+        ],
+        "3": [
+          {
+            "strongs": "6571",
+            "hebrew": "פָּרָ֣שׁ",
+            "hebrew_greek": "πστ",
+            "english": "Horsemen",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "5927",
+            "hebrew": "מַעֲלֶ֗ה",
+            "hebrew_greek": "μολε",
+            "english": "charge with",
+            "morphology": "Verb - Hifil - Participle - masculine singular"
+          },
+          {
+            "strongs": "3851",
+            "hebrew": "וְלַ֤הַב",
+            "hebrew_greek": "υλεβ",
+            "english": "and bright",
+            "morphology": "Conjunctive waw :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "2719",
+            "hebrew": "חֶ֙רֶב֙",
+            "hebrew_greek": "ησβ",
+            "english": "sword",
+            "morphology": "Noun - feminine singular"
+          },
+          {
+            "strongs": "1300",
+            "hebrew": "וּבְרַ֣ק",
+            "hebrew_greek": "υβσρ",
+            "english": "and glittering",
+            "morphology": "Conjunctive waw :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "2595",
+            "hebrew": "–  חֲנִ֔ית",
+            "hebrew_greek": "–  ηνιυ",
+            "english": "spear",
+            "morphology": "Noun - feminine singular"
+          },
+          {
+            "strongs": "7230",
+            "hebrew": "וְרֹ֥ב",
+            "hebrew_greek": "υσβ",
+            "english": "and [There is] a multitude",
+            "morphology": "Conjunctive waw :: Noun - masculine singular"
+          },
+          {
+            "strongs": "2491",
+            "hebrew": "､  חָלָ֖ל",
+            "hebrew_greek": "､  ηλλ",
+            "english": "of slain",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "3514",
+            "hebrew": "וְכֹ֣בֶד",
+            "hebrew_greek": "υκβδ",
+            "english": "and a great number",
+            "morphology": "Conjunctive waw :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "6297",
+            "hebrew": "–  פָּ֑גֶר",
+            "hebrew_greek": "–  πγσ",
+            "english": "of bodies",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "369",
+            "hebrew": "וְאֵ֥ין",
+            "hebrew_greek": "υαιψ",
+            "english": "and",
+            "morphology": "Conjunctive waw :: Adverb"
+          },
+          {
+            "strongs": "7097",
+            "hebrew": "קֵ֙צֶה֙",
+            "hebrew_greek": "ρϡε",
+            "english": "Countless",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "1472",
+            "hebrew": "–  לַגְּוִיָּ֔ה",
+            "hebrew_greek": "–  λγυιε",
+            "english": "corpses",
+            "morphology": "Preposition-l, Article :: Noun - feminine singular"
+          },
+          {
+            "strongs": "3782",
+            "hebrew": "(וְכָשְׁל֖וּ)",
+            "hebrew_greek": "(υκτλυ)",
+            "english": "they stumble",
+            "morphology": "Conjunctive waw :: Verb - Qal - Conjunctive perfect - third person common plural"
+          },
+          {
+            "strongs": "1472",
+            "hebrew": "–  בִּגְוִיָּתָֽם׃",
+            "hebrew_greek": "–  βγυιυχ",
+            "english": "over the corpses",
+            "morphology": "Preposition-b :: Noun - feminine singular construct :: third person masculine plural"
+          }
+        ],
+        "4": [
+          {
+            "strongs": "7230",
+            "hebrew": "מֵרֹב֙",
+            "hebrew_greek": "μσβ",
+            "english": "because of the multitude",
+            "morphology": "Preposition-m :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "2181",
+            "hebrew": "､  זְנוּנֵ֣י",
+            "hebrew_greek": "､  ζνυνι",
+            "english": "of harlotries",
+            "morphology": "Noun - masculine plural construct"
+          },
+          {
+            "strongs": "2181",
+            "hebrew": "זוֹנָ֔ה",
+            "hebrew_greek": "ζυνε",
+            "english": "of the harlot",
+            "morphology": "Noun - feminine singular"
+          },
+          {
+            "strongs": "2896",
+            "hebrew": "ט֥וֹבַת",
+            "hebrew_greek": "θυβυ",
+            "english": "of the well favored",
+            "morphology": "Adjective - feminine singular construct"
+          },
+          {
+            "strongs": "2580",
+            "hebrew": "חֵ֖ן",
+            "hebrew_greek": "ηψ",
+            "english": "seductive",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "1172",
+            "hebrew": "בַּעֲלַ֣ת",
+            "hebrew_greek": "βολυ",
+            "english": "the mistress",
+            "morphology": "Noun - feminine singular construct"
+          },
+          {
+            "strongs": "3785",
+            "hebrew": "､  כְּשָׁפִ֑ים",
+            "hebrew_greek": "､  κτπιχ",
+            "english": "of sorceries",
+            "morphology": "Noun - masculine plural"
+          },
+          {
+            "strongs": "4376",
+            "hebrew": "הַמֹּכֶ֤רֶת",
+            "hebrew_greek": "εμκσυ",
+            "english": "who sells",
+            "morphology": "Article :: Verb - Qal - Participle - feminine singular"
+          },
+          {
+            "strongs": "1471",
+            "hebrew": "גּוֹיִם֙",
+            "hebrew_greek": "γυιχ",
+            "english": "nations",
+            "morphology": "Noun - masculine plural"
+          },
+          {
+            "strongs": "2183",
+            "hebrew": "בִּזְנוּנֶ֔יהָ",
+            "hebrew_greek": "βζνυνιε",
+            "english": "through her harlotries",
+            "morphology": "Preposition-b :: Noun - masculine plural construct :: third person feminine singular"
+          },
+          {
+            "strongs": "4940",
+            "hebrew": "וּמִשְׁפָּח֖וֹת",
+            "hebrew_greek": "υμτπηυυ",
+            "english": "and families",
+            "morphology": "Conjunctive waw :: Noun - feminine plural"
+          },
+          {
+            "strongs": "3785",
+            "hebrew": ".  בִּכְשָׁפֶֽיהָ׃",
+            "hebrew_greek": ".  βκτπιε",
+            "english": "through her sorceries",
+            "morphology": "Preposition-b :: Noun - masculine plural construct :: third person feminine singular"
+          }
+        ],
+        "5": [
+          {
+            "strongs": "2005",
+            "hebrew": "הִנְנִ֣י",
+            "hebrew_greek": "εννι",
+            "english": "Behold I [am]",
+            "morphology": "Interjection :: first person common singular"
+          },
+          {
+            "strongs": "413",
+            "hebrew": "אֵלַ֗יִךְ",
+            "hebrew_greek": "αλιφ",
+            "english": "against you",
+            "morphology": "Preposition :: second person feminine singular"
+          },
+          {
+            "strongs": "5002",
+            "hebrew": "נְאֻם֙",
+            "hebrew_greek": "ναχ",
+            "english": "says",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "3068",
+            "hebrew": "יְהוָ֣ה",
+            "hebrew_greek": "ιευε",
+            "english": "Yahweh",
+            "morphology": "Noun - proper - masculine singular"
+          },
+          {
+            "strongs": "6635",
+            "hebrew": "–  צְבָא֔וֹת",
+            "hebrew_greek": "–  ϡβαυυ",
+            "english": "of hosts",
+            "morphology": "Noun - common plural"
+          },
+          {
+            "strongs": "1540",
+            "hebrew": "וְגִלֵּיתִ֥י",
+            "hebrew_greek": "υγλιυι",
+            "english": "and I will lift",
+            "morphology": "Conjunctive waw :: Verb - Piel - Conjunctive perfect - first person common singular"
+          },
+          {
+            "strongs": "7757",
+            "hebrew": "שׁוּלַ֖יִךְ",
+            "hebrew_greek": "τυλιφ",
+            "english": "your skirts",
+            "morphology": "Noun - masculine plural construct :: second person feminine singular"
+          },
+          {
+            "strongs": "5921",
+            "hebrew": "עַל־",
+            "hebrew_greek": "ολ",
+            "english": "over",
+            "morphology": "Preposition"
+          },
+          {
+            "strongs": "6440",
+            "hebrew": "､  פָּנָ֑יִךְ",
+            "hebrew_greek": "､  πνιφ",
+            "english": "your face",
+            "morphology": "Noun - common plural construct :: second person feminine singular"
+          },
+          {
+            "strongs": "7200",
+            "hebrew": "וְהַרְאֵיתִ֤י",
+            "hebrew_greek": "υεσαιυι",
+            "english": "and I will show",
+            "morphology": "Conjunctive waw :: Verb - Hifil - Conjunctive perfect - first person common singular"
+          },
+          {
+            "strongs": "1471",
+            "hebrew": "גוֹיִם֙",
+            "hebrew_greek": "γυιχ",
+            "english": "the nations",
+            "morphology": "Noun - masculine plural"
+          },
+          {
+            "strongs": "4626",
+            "hebrew": "､  מַעְרֵ֔ךְ",
+            "hebrew_greek": "､  μοσφ",
+            "english": "your nakedness",
+            "morphology": "Noun - masculine singular construct :: second person feminine singular"
+          },
+          {
+            "strongs": "4467",
+            "hebrew": "וּמַמְלָכ֖וֹת",
+            "hebrew_greek": "υμμλκυυ",
+            "english": "and the kingdoms",
+            "morphology": "Conjunctive waw :: Noun - feminine plural"
+          },
+          {
+            "strongs": "7036",
+            "hebrew": ".  קְלוֹנֵֽךְ׃",
+            "hebrew_greek": ".  ρλυνφ",
+            "english": "your shame",
+            "morphology": "Noun - masculine singular construct :: second person feminine singular"
+          }
+        ],
+        "6": [
+          {
+            "strongs": "7993",
+            "hebrew": "וְהִשְׁלַכְתִּ֥י",
+            "hebrew_greek": "υετλκυι",
+            "english": "And I will cast",
+            "morphology": "Conjunctive waw :: Verb - Hifil - Conjunctive perfect - first person common singular"
+          },
+          {
+            "strongs": "5921",
+            "hebrew": "עָלַ֛יִךְ",
+            "hebrew_greek": "ολιφ",
+            "english": "upon you",
+            "morphology": "Preposition :: second person feminine singular"
+          },
+          {
+            "strongs": "8251",
+            "hebrew": "שִׁקֻּצִ֖ים",
+            "hebrew_greek": "τρϡιχ",
+            "english": "abominable [filth]",
+            "morphology": "Noun - masculine plural"
+          },
+          {
+            "strongs": "5034",
+            "hebrew": "､  וְנִבַּלְתִּ֑יךְ",
+            "hebrew_greek": "､  υνβλυιφ",
+            "english": "and Make you vile",
+            "morphology": "Conjunctive waw :: Verb - Piel - Conjunctive perfect - first person common singular :: second person feminine singular"
+          },
+          {
+            "strongs": "7760",
+            "hebrew": "וְשַׂמְתִּ֖יךְ",
+            "hebrew_greek": "υτμυιφ",
+            "english": "and make you",
+            "morphology": "Conjunctive waw :: Verb - Qal - Conjunctive perfect - first person common singular :: second person feminine singular"
+          },
+          {
+            "strongs": "7210",
+            "hebrew": ".  כְּרֹֽאִי׃",
+            "hebrew_greek": ".  κσαι",
+            "english": "a spectacle",
+            "morphology": "Preposition-k :: Noun - masculine singular"
+          }
+        ],
+        "7": [
+          {
+            "strongs": "1961",
+            "hebrew": "､  וְהָיָ֤ה",
+            "hebrew_greek": "､  υειε",
+            "english": "And it shall come to pass",
+            "morphology": "Conjunctive waw :: Verb - Qal - Conjunctive perfect - third person masculine singular"
+          },
+          {
+            "strongs": "3605",
+            "hebrew": "כָל־",
+            "hebrew_greek": "κλ",
+            "english": "[that] all",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "7200",
+            "hebrew": "רֹאַ֙יִךְ֙",
+            "hebrew_greek": "σαιφ",
+            "english": "who look upon you",
+            "morphology": "Verb - Qal - Participle - masculine plural construct :: second person feminine singular"
+          },
+          {
+            "strongs": "5074",
+            "hebrew": "יִדּ֣וֹד",
+            "hebrew_greek": "ιδυδ",
+            "english": "will flee",
+            "morphology": "Verb - Qal - Imperfect - third person masculine singular"
+          },
+          {
+            "strongs": "4480",
+            "hebrew": "מִמֵּ֔ךְ",
+            "hebrew_greek": "μμφ",
+            "english": "from you",
+            "morphology": "Preposition :: second person feminine singular"
+          },
+          {
+            "strongs": "559",
+            "hebrew": "､  וְאָמַר֙",
+            "hebrew_greek": "､  υαμσ",
+            "english": "and say",
+            "morphology": "Conjunctive waw :: Verb - Qal - Conjunctive perfect - third person masculine singular"
+          },
+          {
+            "strongs": "7703",
+            "hebrew": "!  שָׁדְּדָ֣ה",
+            "hebrew_greek": "!  τδδε",
+            "english": "is laid waste",
+            "morphology": "Verb - Pual - Perfect - third person feminine singular"
+          },
+          {
+            "strongs": "5210",
+            "hebrew": "נִֽינְוֵ֔ה",
+            "hebrew_greek": "νινυε",
+            "english": "Nineveh",
+            "morphology": "Noun - proper - feminine singular"
+          },
+          {
+            "strongs": "4310",
+            "hebrew": "מִ֖י",
+            "hebrew_greek": "μι",
+            "english": "who",
+            "morphology": "Interrogative"
+          },
+          {
+            "strongs": "5110",
+            "hebrew": "יָנ֣וּד",
+            "hebrew_greek": "ινυδ",
+            "english": "will bemoan",
+            "morphology": "Verb - Qal - Imperfect - third person masculine singular"
+          },
+          {
+            "strongs": "370",
+            "hebrew": "מֵאַ֛יִן",
+            "hebrew_greek": "μαιψ",
+            "english": "where",
+            "morphology": "Preposition-m :: Adverb"
+          },
+          {
+            "strongs": "1245",
+            "hebrew": "אֲבַקֵּ֥שׁ",
+            "hebrew_greek": "αβρτ",
+            "english": "shall I seek",
+            "morphology": "Verb - Piel - Imperfect - first person common singular"
+          },
+          {
+            "strongs": "5162",
+            "hebrew": "מְנַחֲמִ֖ים",
+            "hebrew_greek": "μνημιχ",
+            "english": "comforters",
+            "morphology": "Verb - Piel - Participle - masculine plural"
+          }
+        ],
+        "8": [
+          {
+            "strongs": "3190",
+            "hebrew": "הֲתֵֽיטְבִי֙",
+            "hebrew_greek": "ευιθβι",
+            "english": "Are you better",
+            "morphology": "Verb - Hifil - Imperfect - second person feminine singular"
+          },
+          {
+            "strongs": "4996",
+            "hebrew": "מִנֹּ֣א",
+            "hebrew_greek": "μνα",
+            "english": "than No",
+            "morphology": "Preposition-m :: Noun - proper - feminine singular"
+          },
+          {
+            "strongs": "528",
+            "hebrew": "אָמ֔וֹן",
+            "hebrew_greek": "αμυψ",
+            "english": "Amon",
+            "morphology": "Noun - proper - feminine singular"
+          },
+          {
+            "strongs": "3427",
+            "hebrew": "הַיֹּֽשְׁבָה֙",
+            "hebrew_greek": "ειτβε",
+            "english": "[That was] situated",
+            "morphology": "Article :: Verb - Qal - Participle - feminine singular"
+          },
+          {
+            "strongs": "2975",
+            "hebrew": "､  בַּיְאֹרִ֔ים",
+            "hebrew_greek": "､  βιασιχ",
+            "english": "by the River",
+            "morphology": "Preposition-b, Article :: Noun - masculine plural"
+          },
+          {
+            "strongs": "4325",
+            "hebrew": "מַ֖יִם",
+            "hebrew_greek": "μιχ",
+            "english": "that had the waters",
+            "morphology": "Noun - masculine plural"
+          },
+          {
+            "strongs": "5439",
+            "hebrew": "סָבִ֣יב",
+            "hebrew_greek": "ξβιβ",
+            "english": "around",
+            "morphology": "Adverb"
+          },
+          {
+            "strongs": "834",
+            "hebrew": "אֲשֶׁר־",
+            "hebrew_greek": "ατσ",
+            "english": "Whose",
+            "morphology": "Pronoun - relative"
+          },
+          {
+            "strongs": "2426",
+            "hebrew": "חֵ֣יל",
+            "hebrew_greek": "ηιλ",
+            "english": "rampart [was]",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "3220",
+            "hebrew": "､  יָ֔ם",
+            "hebrew_greek": "､  ιχ",
+            "english": "the sea",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "3220",
+            "hebrew": "מִיָּ֖ם",
+            "hebrew_greek": "μιχ",
+            "english": "the sea",
+            "morphology": "Preposition-m :: Noun - masculine singular"
+          },
+          {
+            "strongs": "2346",
+            "hebrew": "؟  חוֹמָתָֽהּ׃",
+            "hebrew_greek": "؟  ηυμυε",
+            "english": "Whose wall [was]",
+            "morphology": "Noun - feminine singular construct :: third person feminine singular"
+          }
+        ],
+        "9": [
+          {
+            "strongs": "3568",
+            "hebrew": "כּ֥וּשׁ",
+            "hebrew_greek": "κυτ",
+            "english": "Ethiopia",
+            "morphology": "Noun - proper - feminine singular"
+          },
+          {
+            "strongs": "6109",
+            "hebrew": "､  עָצְמָ֛ה",
+            "hebrew_greek": "､  οϡμε",
+            "english": "[were] her strength",
+            "morphology": "Noun - feminine singular construct :: third person feminine singular"
+          },
+          {
+            "strongs": "4714",
+            "hebrew": "וּמִצְרַ֖יִם",
+            "hebrew_greek": "υμϡσιχ",
+            "english": "and Egypt",
+            "morphology": "Conjunctive waw :: Noun - proper - feminine singular"
+          },
+          {
+            "strongs": "369",
+            "hebrew": "וְאֵ֣ין",
+            "hebrew_greek": "υαιψ",
+            "english": "and",
+            "morphology": "Conjunctive waw :: Adverb"
+          },
+          {
+            "strongs": "7097",
+            "hebrew": "–  קֵ֑צֶה",
+            "hebrew_greek": "–  ρϡε",
+            "english": "[it was] boundless",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "6316",
+            "hebrew": "פּ֣וּט",
+            "hebrew_greek": "πυθ",
+            "english": "Libya",
+            "morphology": "Noun - proper - feminine singular"
+          },
+          {
+            "strongs": "3864",
+            "hebrew": "וְלוּבִ֔ים",
+            "hebrew_greek": "υλυβιχ",
+            "english": "and Lubim",
+            "morphology": "Conjunctive waw :: Noun - proper - feminine singular"
+          },
+          {
+            "strongs": "1961",
+            "hebrew": "הָי֖וּ",
+            "hebrew_greek": "ειυ",
+            "english": "were",
+            "morphology": "Verb - Qal - Perfect - third person common plural"
+          },
+          {
+            "strongs": "5833",
+            "hebrew": ".  בְּעֶזְרָתֵֽךְ׃",
+            "hebrew_greek": ".  βοζσυφ",
+            "english": "your helpers",
+            "morphology": "Preposition-b :: Noun - feminine singular construct :: second person feminine singular"
+          }
+        ],
+        "10": [
+          {
+            "strongs": "1571",
+            "hebrew": "גַּם־",
+            "hebrew_greek": "γχ",
+            "english": "Yet",
+            "morphology": "Conjunction"
+          },
+          {
+            "strongs": "1931",
+            "hebrew": "הִ֗יא",
+            "hebrew_greek": "εια",
+            "english": "she [was]",
+            "morphology": "Pronoun - third person feminine singular"
+          },
+          {
+            "strongs": "1473",
+            "hebrew": "､  לַגֹּלָה֙",
+            "hebrew_greek": "､  λγλε",
+            "english": "[carried away] captive",
+            "morphology": "Preposition-l, Article :: Noun - feminine singular"
+          },
+          {
+            "strongs": "1980",
+            "hebrew": "הָלְכָ֣ה",
+            "hebrew_greek": "ελκε",
+            "english": "she went",
+            "morphology": "Verb - Qal - Perfect - third person feminine singular"
+          },
+          {
+            "strongs": "7628",
+            "hebrew": "–  בַשֶּׁ֔בִי",
+            "hebrew_greek": "–  βτβι",
+            "english": "into captivity",
+            "morphology": "Preposition-b, Article :: Noun - masculine singular"
+          },
+          {
+            "strongs": "1571",
+            "hebrew": "גַּ֧ם",
+            "hebrew_greek": "γχ",
+            "english": "also",
+            "morphology": "Conjunction"
+          },
+          {
+            "strongs": "5768",
+            "hebrew": "עֹלָלֶ֛יהָ",
+            "hebrew_greek": "ολλιε",
+            "english": "Her young children",
+            "morphology": "Noun - masculine plural construct :: third person feminine singular"
+          },
+          {
+            "strongs": "7376",
+            "hebrew": "יְרֻטְּשׁ֖וּ",
+            "hebrew_greek": "ισθτυ",
+            "english": "were dashed to pieces",
+            "morphology": "Verb - Pual - Imperfect - third person masculine plural"
+          },
+          {
+            "strongs": "7218",
+            "hebrew": "בְּרֹ֣אשׁ",
+            "hebrew_greek": "βσατ",
+            "english": "at the head",
+            "morphology": "Preposition-b :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "3605",
+            "hebrew": "כָּל־",
+            "hebrew_greek": "κλ",
+            "english": "of every",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "2351",
+            "hebrew": "–  חוּצ֑וֹת",
+            "hebrew_greek": "–  ηυϡυυ",
+            "english": "street",
+            "morphology": "Noun - masculine plural"
+          },
+          {
+            "strongs": "5921",
+            "hebrew": "וְעַל־",
+            "hebrew_greek": "υολ",
+            "english": "for",
+            "morphology": "Conjunctive waw :: Preposition"
+          },
+          {
+            "strongs": "3513",
+            "hebrew": "､  נִכְבַּדֶּ֙יהָ֙",
+            "hebrew_greek": "､  νκβδιε",
+            "english": "her honorable men",
+            "morphology": "Verb - Nifal - Participle - masculine plural construct :: third person feminine singular"
+          },
+          {
+            "strongs": "3032",
+            "hebrew": "יַדּ֣וּ",
+            "hebrew_greek": "ιδυ",
+            "english": "they cast",
+            "morphology": "Verb - Qal - Perfect - third person common plural"
+          },
+          {
+            "strongs": "1486",
+            "hebrew": "גוֹרָ֔ל",
+            "hebrew_greek": "γυσλ",
+            "english": "lots",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "3605",
+            "hebrew": "וְכָל־",
+            "hebrew_greek": "υκλ",
+            "english": "and all",
+            "morphology": "Conjunctive waw :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "1419",
+            "hebrew": "גְּדוֹלֶ֖יהָ",
+            "hebrew_greek": "γδυλιε",
+            "english": "her great men",
+            "morphology": "Adjective - masculine plural construct :: third person feminine singular"
+          },
+          {
+            "strongs": "7576",
+            "hebrew": "רֻתְּק֥וּ",
+            "hebrew_greek": "συρυ",
+            "english": "were bound",
+            "morphology": "Verb - Pual - Perfect - third person common plural"
+          },
+          {
+            "strongs": "2131",
+            "hebrew": ".  בַזִּקִּֽים׃",
+            "hebrew_greek": ".  βζριχ",
+            "english": "in chains",
+            "morphology": "Preposition-b, Article :: Noun - masculine plural"
+          }
+        ],
+        "11": [
+          {
+            "strongs": "1571",
+            "hebrew": "גַּם־",
+            "hebrew_greek": "γχ",
+            "english": "Also",
+            "morphology": "Conjunction"
+          },
+          {
+            "strongs": "859",
+            "hebrew": "אַ֣תְּ",
+            "hebrew_greek": "αυ",
+            "english": "You",
+            "morphology": "Pronoun - second person feminine singular"
+          },
+          {
+            "strongs": "7937",
+            "hebrew": "–  תִּשְׁכְּרִ֔י",
+            "hebrew_greek": "–  υτκσι",
+            "english": "will be drunk",
+            "morphology": "Verb - Qal - Imperfect - second person feminine singular"
+          },
+          {
+            "strongs": "1961",
+            "hebrew": "תְּהִ֖י",
+            "hebrew_greek": "υει",
+            "english": "You will be",
+            "morphology": "Verb - Qal - Imperfect Jussive - third person feminine singular"
+          },
+          {
+            "strongs": "5956",
+            "hebrew": "､  נַֽעֲלָמָ֑ה",
+            "hebrew_greek": "､  νολμε",
+            "english": "hidden",
+            "morphology": "Verb - Nifal - Participle - feminine singular"
+          },
+          {
+            "strongs": "1571",
+            "hebrew": "גַּם־",
+            "hebrew_greek": "γχ",
+            "english": "also",
+            "morphology": "Conjunction"
+          },
+          {
+            "strongs": "859",
+            "hebrew": "אַ֛תְּ",
+            "hebrew_greek": "αυ",
+            "english": "You",
+            "morphology": "Pronoun - second person feminine singular"
+          },
+          {
+            "strongs": "1245",
+            "hebrew": "תְּבַקְשִׁ֥י",
+            "hebrew_greek": "υβρτι",
+            "english": "will seek",
+            "morphology": "Verb - Piel - Imperfect - second person feminine singular"
+          },
+          {
+            "strongs": "4581",
+            "hebrew": "מָע֖וֹז",
+            "hebrew_greek": "μουζ",
+            "english": "refuge",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "341",
+            "hebrew": ".  מֵאוֹיֵֽב׃",
+            "hebrew_greek": ".  μαυιβ",
+            "english": "from the enemy",
+            "morphology": "Preposition-m :: Verb - Qal - Participle - masculine singular"
+          }
+        ],
+        "12": [
+          {
+            "strongs": "3605",
+            "hebrew": "כָּ֨ל־",
+            "hebrew_greek": "κλ",
+            "english": "All",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "4013",
+            "hebrew": "מִבְצָרַ֔יִךְ",
+            "hebrew_greek": "μβϡσιφ",
+            "english": "your strongholds [are]",
+            "morphology": "Noun - masculine plural construct :: second person feminine singular"
+          },
+          {
+            "strongs": "8384",
+            "hebrew": "תְּאֵנִ֖ים",
+            "hebrew_greek": "υανιχ",
+            "english": "fig trees",
+            "morphology": "Noun - feminine plural"
+          },
+          {
+            "strongs": "5973",
+            "hebrew": "עִם־",
+            "hebrew_greek": "οχ",
+            "english": "with",
+            "morphology": "Preposition"
+          },
+          {
+            "strongs": "1061",
+            "hebrew": "–  בִּכּוּרִ֑ים",
+            "hebrew_greek": "–  βκυσιχ",
+            "english": "ripened figs",
+            "morphology": "Noun - masculine plural"
+          },
+          {
+            "strongs": "518",
+            "hebrew": "אִם־",
+            "hebrew_greek": "αχ",
+            "english": "if",
+            "morphology": "Conjunction"
+          },
+          {
+            "strongs": "5128",
+            "hebrew": "､  יִנּ֕וֹעוּ",
+            "hebrew_greek": "､  ινυου",
+            "english": "they are shaken",
+            "morphology": "Verb - Nifal - Imperfect - third person masculine plural"
+          },
+          {
+            "strongs": "5307",
+            "hebrew": "וְנָפְל֖וּ",
+            "hebrew_greek": "υνπλυ",
+            "english": "and they fall",
+            "morphology": "Conjunctive waw :: Verb - Qal - Conjunctive perfect - third person common plural"
+          },
+          {
+            "strongs": "5921",
+            "hebrew": "עַל־",
+            "hebrew_greek": "ολ",
+            "english": "into",
+            "morphology": "Preposition"
+          },
+          {
+            "strongs": "6310",
+            "hebrew": "פִּ֥י",
+            "hebrew_greek": "πι",
+            "english": "the mouth",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "398",
+            "hebrew": ".  אוֹכֵֽל׃",
+            "hebrew_greek": ".  αυκλ",
+            "english": "of the eater",
+            "morphology": "Verb - Qal - Participle - masculine singular"
+          }
+        ],
+        "13": [
+          {
+            "strongs": "2009",
+            "hebrew": "､  הִנֵּ֨ה",
+            "hebrew_greek": "､  ενε",
+            "english": "Surely",
+            "morphology": "Interjection"
+          },
+          {
+            "strongs": "5971",
+            "hebrew": "עַמֵּ֤ךְ",
+            "hebrew_greek": "ομφ",
+            "english": "your people",
+            "morphology": "Noun - masculine singular construct :: second person feminine singular"
+          },
+          {
+            "strongs": "802",
+            "hebrew": "–  נָשִׁים֙",
+            "hebrew_greek": "–  ντιχ",
+            "english": "[are] women",
+            "morphology": "Noun - feminine plural"
+          },
+          {
+            "strongs": "7130",
+            "hebrew": "בְּקִרְבֵּ֔ךְ",
+            "hebrew_greek": "βρσβφ",
+            "english": "in your midst",
+            "morphology": "Preposition-b :: Noun - masculine singular construct :: second person feminine singular"
+          },
+          {
+            "strongs": "341",
+            "hebrew": "–  לְאֹ֣יְבַ֔יִךְ",
+            "hebrew_greek": "–  λαιβιφ",
+            "english": "for your enemies",
+            "morphology": "Preposition-l :: Verb - Qal - Participle - masculine plural construct :: second person feminine singular"
+          },
+          {
+            "strongs": "6605",
+            "hebrew": "פָּת֥וֹחַ",
+            "hebrew_greek": "πυυη",
+            "english": "wide",
+            "morphology": "Verb - Qal - Infinitive absolute"
+          },
+          {
+            "strongs": "6605",
+            "hebrew": "נִפְתְּח֖וּ",
+            "hebrew_greek": "νπυηυ",
+            "english": "are open",
+            "morphology": "Verb - Nifal - Perfect - third person common plural"
+          },
+          {
+            "strongs": "8179",
+            "hebrew": "שַׁעֲרֵ֣י",
+            "hebrew_greek": "τοσι",
+            "english": "the gates",
+            "morphology": "Noun - masculine plural construct"
+          },
+          {
+            "strongs": "776",
+            "hebrew": "אַרְצֵ֑ךְ",
+            "hebrew_greek": "ασϡφ",
+            "english": "of your land",
+            "morphology": "Noun - feminine singular construct :: second person feminine singular"
+          },
+          {
+            "strongs": "398",
+            "hebrew": "אָכְלָ֥ה",
+            "hebrew_greek": "ακλε",
+            "english": "shall devour",
+            "morphology": "Verb - Qal - Perfect - third person feminine singular"
+          },
+          {
+            "strongs": "784",
+            "hebrew": "אֵ֖שׁ",
+            "hebrew_greek": "ατ",
+            "english": "Fire",
+            "morphology": "Noun - common singular"
+          },
+          {
+            "strongs": "1280",
+            "hebrew": ".  בְּרִיחָֽיִך׃",
+            "hebrew_greek": ".  βσιηιφ",
+            "english": "the bars of your [gates]",
+            "morphology": "Noun - masculine plural construct :: second person feminine singular"
+          }
+        ],
+        "14": [
+          {
+            "strongs": "4325",
+            "hebrew": "מֵ֤י",
+            "hebrew_greek": "μι",
+            "english": "Water",
+            "morphology": "Noun - masculine plural construct"
+          },
+          {
+            "strongs": "4692",
+            "hebrew": "､  מָצוֹר֙",
+            "hebrew_greek": "､  μϡυσ",
+            "english": "for the siege",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "7579",
+            "hebrew": "שַֽׁאֲבִי־",
+            "hebrew_greek": "ταβι",
+            "english": "Draw",
+            "morphology": "Verb - Qal - Imperative - feminine singular"
+          },
+          {
+            "strongs": "2388",
+            "hebrew": "חַזְּקִ֖י",
+            "hebrew_greek": "ηζρι",
+            "english": "Fortify",
+            "morphology": "Verb - Piel - Imperative - feminine singular"
+          },
+          {
+            "strongs": "4013",
+            "hebrew": "!  מִבְצָרָ֑יִךְ",
+            "hebrew_greek": "!  μβϡσιφ",
+            "english": "your strongholds",
+            "morphology": "Noun - masculine plural construct :: second person feminine singular"
+          },
+          {
+            "strongs": "935",
+            "hebrew": "בֹּ֧אִי",
+            "hebrew_greek": "βαι",
+            "english": "go",
+            "morphology": "Verb - Qal - Imperative - feminine singular"
+          },
+          {
+            "strongs": "2916",
+            "hebrew": "､  בַטִּ֛יט",
+            "hebrew_greek": "､  βθιθ",
+            "english": "into the clay",
+            "morphology": "Preposition-b, Article :: Noun - masculine singular"
+          },
+          {
+            "strongs": "7429",
+            "hebrew": "וְרִמְסִ֥י",
+            "hebrew_greek": "υσμξι",
+            "english": "and tread",
+            "morphology": "Conjunctive waw :: Verb - Qal - Imperative - feminine singular"
+          },
+          {
+            "strongs": "2563",
+            "hebrew": "､  בַחֹ֖מֶר",
+            "hebrew_greek": "､  βημσ",
+            "english": "the mortar",
+            "morphology": "Preposition-b, Article :: Noun - masculine singular"
+          },
+          {
+            "strongs": "2388",
+            "hebrew": "הַחֲזִ֥יקִי",
+            "hebrew_greek": "εηζιρι",
+            "english": "Make strong",
+            "morphology": "Verb - Hifil - Imperative - feminine singular"
+          },
+          {
+            "strongs": "4404",
+            "hebrew": ".  מַלְבֵּֽן׃",
+            "hebrew_greek": ".  μλβψ",
+            "english": "the brick [kiln]",
+            "morphology": "Noun - masculine singular"
+          }
+        ],
+        "15": [
+          {
+            "strongs": "8033",
+            "hebrew": "שָׁ֚ם",
+            "hebrew_greek": "τχ",
+            "english": "There",
+            "morphology": "Adverb"
+          },
+          {
+            "strongs": "398",
+            "hebrew": "תֹּאכְלֵ֣ךְ",
+            "hebrew_greek": "υακλφ",
+            "english": "will devour you",
+            "morphology": "Verb - Qal - Imperfect - third person feminine singular :: second person feminine singular"
+          },
+          {
+            "strongs": "784",
+            "hebrew": "אֵ֔שׁ",
+            "hebrew_greek": "ατ",
+            "english": "the fire",
+            "morphology": "Noun - common singular"
+          },
+          {
+            "strongs": "3772",
+            "hebrew": "､  תַּכְרִיתֵ֣ךְ",
+            "hebrew_greek": "､  υκσιυφ",
+            "english": "will cut you off",
+            "morphology": "Verb - Hifil - Imperfect - third person feminine singular :: second person feminine singular"
+          },
+          {
+            "strongs": "2719",
+            "hebrew": "חֶ֔רֶב",
+            "hebrew_greek": "ησβ",
+            "english": "the sword",
+            "morphology": "Noun - feminine singular"
+          },
+          {
+            "strongs": "398",
+            "hebrew": "תֹּאכְלֵ֖ךְ",
+            "hebrew_greek": "υακλφ",
+            "english": "it will eat you up",
+            "morphology": "Verb - Qal - Imperfect - third person feminine singular :: second person feminine singular"
+          },
+          {
+            "strongs": "3218",
+            "hebrew": "–  כַּיָּ֑לֶק",
+            "hebrew_greek": "–  κιλρ",
+            "english": "like a locust",
+            "morphology": "Preposition-k, Article :: Noun - masculine singular"
+          },
+          {
+            "strongs": "3513",
+            "hebrew": "הִתְכַּבֵּ֣ד",
+            "hebrew_greek": "ευκβδ",
+            "english": "Make yourself many",
+            "morphology": "Verb - Hitpael - Imperative - masculine singular"
+          },
+          {
+            "strongs": "3218",
+            "hebrew": "､  כַּיֶּ֔לֶק",
+            "hebrew_greek": "､  κιλρ",
+            "english": "like the locust",
+            "morphology": "Preposition-k, Article :: Noun - masculine singular"
+          },
+          {
+            "strongs": "3513",
+            "hebrew": "הִֽתְכַּבְּדִ֖י",
+            "hebrew_greek": "ευκβδι",
+            "english": "Make yourself many",
+            "morphology": "Verb - Hitpael - Imperative - feminine singular"
+          },
+          {
+            "strongs": "697",
+            "hebrew": ".  כָּאַרְבֶּֽה׃",
+            "hebrew_greek": ".  κασβε",
+            "english": "like the [swarming] locusts",
+            "morphology": "Preposition-k, Article :: Noun - masculine singular"
+          }
+        ],
+        "16": [
+          {
+            "strongs": "7235",
+            "hebrew": "הִרְבֵּית֙",
+            "hebrew_greek": "εσβιυ",
+            "english": "You have multiplied",
+            "morphology": "Verb - Hifil - Perfect - second person feminine singular"
+          },
+          {
+            "strongs": "7402",
+            "hebrew": "רֹֽכְלַ֔יִךְ",
+            "hebrew_greek": "σκλιφ",
+            "english": "your merchants",
+            "morphology": "Verb - Qal - Participle - masculine plural construct :: second person feminine singular"
+          },
+          {
+            "strongs": "3556",
+            "hebrew": "מִכּוֹכְבֵ֖י",
+            "hebrew_greek": "μκυκβι",
+            "english": "more than stars",
+            "morphology": "Preposition-m :: Noun - masculine plural construct"
+          },
+          {
+            "strongs": "8064",
+            "hebrew": "–  הַשָּׁמָ֑יִם",
+            "hebrew_greek": "–  ετμιχ",
+            "english": "of the heaven",
+            "morphology": "Article :: Noun - masculine plural"
+          },
+          {
+            "strongs": "3218",
+            "hebrew": "יֶ֥לֶק",
+            "hebrew_greek": "ιλρ",
+            "english": "the locust",
+            "morphology": "Noun - masculine singular"
+          },
+          {
+            "strongs": "6584",
+            "hebrew": "､  פָּשַׁ֖ט",
+            "hebrew_greek": "､  πτθ",
+            "english": "plunders",
+            "morphology": "Verb - Qal - Perfect - third person masculine singular"
+          },
+          {
+            "strongs": "5774",
+            "hebrew": ".  וַיָּעֹֽף׃",
+            "hebrew_greek": ".  υιοω",
+            "english": "and flies away",
+            "morphology": "Conjunctive waw :: Verb - Qal - Consecutive imperfect - third person masculine singular"
+          }
+        ],
+        "17": [
+          {
+            "strongs": "4502",
+            "hebrew": "מִנְּזָרַ֙יִךְ֙",
+            "hebrew_greek": "μνζσιφ",
+            "english": "Your commanders [are]",
+            "morphology": "Noun - masculine plural construct :: second person feminine singular"
+          },
+          {
+            "strongs": "697",
+            "hebrew": "､  כָּֽאַרְבֶּ֔ה",
+            "hebrew_greek": "､  κασβε",
+            "english": "like [swarming] locusts",
+            "morphology": "Preposition-k, Article :: Noun - masculine singular"
+          },
+          {
+            "strongs": "2951",
+            "hebrew": "וְטַפְסְרַ֖יִךְ",
+            "hebrew_greek": "υθπξσιφ",
+            "english": "and your generals",
+            "morphology": "Conjunctive waw :: Noun - masculine plural construct :: second person feminine singular"
+          },
+          {
+            "strongs": "1462",
+            "hebrew": "כְּג֣וֹב",
+            "hebrew_greek": "κγυβ",
+            "english": "like grasshoppers",
+            "morphology": "Preposition-k :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "1462",
+            "hebrew": "､  גֹּבָ֑י",
+            "hebrew_greek": "､  γβι",
+            "english": "great",
+            "morphology": "Noun - masculine plural"
+          },
+          {
+            "strongs": "2583",
+            "hebrew": "הַֽחוֹנִ֤ים",
+            "hebrew_greek": "εηυνιχ",
+            "english": "which camp",
+            "morphology": "Article :: Verb - Qal - Participle - masculine plural"
+          },
+          {
+            "strongs": "1448",
+            "hebrew": "בַּגְּדֵרוֹת֙",
+            "hebrew_greek": "βγδσυυ",
+            "english": "in the hedges",
+            "morphology": "Preposition-b, Article :: Noun - feminine plural"
+          },
+          {
+            "strongs": "3117",
+            "hebrew": "､  בְּי֣וֹם",
+            "hebrew_greek": "､  βιυχ",
+            "english": "on a day",
+            "morphology": "Preposition-b :: Noun - masculine singular construct"
+          },
+          {
+            "strongs": "7135",
+            "hebrew": "קָרָ֔ה",
+            "hebrew_greek": "ρσε",
+            "english": "cold",
+            "morphology": "Noun - feminine singular"
+          },
+          {
+            "strongs": "8121",
+            "hebrew": "שֶׁ֤מֶשׁ",
+            "hebrew_greek": "τμτ",
+            "english": "the sun",
+            "morphology": "Noun - common singular"
+          },
+          {
+            "strongs": "2224",
+            "hebrew": "זָֽרְחָה֙",
+            "hebrew_greek": "ζσηε",
+            "english": "when rises",
+            "morphology": "Verb - Qal - Perfect - third person feminine singular"
+          },
+          {
+            "strongs": "5074",
+            "hebrew": "､  וְנוֹדַ֔ד",
+            "hebrew_greek": "､  υνυδδ",
+            "english": "and they flee away",
+            "morphology": "Conjunctive waw :: Verb - Pual - Conjunctive perfect - third person masculine singular"
+          },
+          {
+            "strongs": "3808",
+            "hebrew": "וְלֹֽא־",
+            "hebrew_greek": "υλα",
+            "english": "and not",
+            "morphology": "Conjunctive waw :: Adverb - Negative particle"
+          },
+          {
+            "strongs": "3045",
+            "hebrew": "נוֹדַ֥ע",
+            "hebrew_greek": "νυδο",
+            "english": "is known",
+            "morphology": "Verb - Nifal - Perfect - third person masculine singular"
+          },
+          {
+            "strongs": "4725",
+            "hebrew": "מְקוֹמ֖וֹ",
+            "hebrew_greek": "μρυμυ",
+            "english": "the place",
+            "morphology": "Noun - masculine singular construct :: third person masculine singular"
+          },
+          {
+            "strongs": "335",
+            "hebrew": ".  אַיָּֽם׃",
+            "hebrew_greek": ".  αιχ",
+            "english": "where they [are]",
+            "morphology": "Interrogative :: third person masculine plural"
+          }
+        ],
+        "18": [
+          {
+            "strongs": "5123",
+            "hebrew": "､  נָמ֤וּ",
+            "hebrew_greek": "､  νμυ",
+            "english": "Slumber",
+            "morphology": "Verb - Qal - Perfect - third person common plural"
+          },
+          {
+            "strongs": "7462",
+            "hebrew": "רֹעֶ֙יךָ֙",
+            "hebrew_greek": "σοιφ",
+            "english": "Your shepherds",
+            "morphology": "Verb - Qal - Participle - masculine plural construct :: second person masculine singular"
+          },
+          {
+            "strongs": "4428",
+            "hebrew": "מֶ֣לֶךְ",
+            "hebrew_greek": "μλφ",
+            "english": "king",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "804",
+            "hebrew": "–  אַשּׁ֔וּר",
+            "hebrew_greek": "–  ατυσ",
+            "english": "of Assyria",
+            "morphology": "Noun - proper - feminine singular"
+          },
+          {
+            "strongs": "7931",
+            "hebrew": "יִשְׁכְּנ֖וּ",
+            "hebrew_greek": "ιτκνυ",
+            "english": "rest [in the dust]",
+            "morphology": "Verb - Qal - Imperfect - third person masculine plural"
+          },
+          {
+            "strongs": "117",
+            "hebrew": "אַדִּירֶ֑יךָ",
+            "hebrew_greek": "αδισιφ",
+            "english": "Your nobles",
+            "morphology": "Noun - masculine plural construct :: second person masculine singular"
+          },
+          {
+            "strongs": "6335",
+            "hebrew": "נָפֹ֧שׁוּ",
+            "hebrew_greek": "νπτυ",
+            "english": "are scattered",
+            "morphology": "Verb - Nifal - Perfect - third person common plural"
+          },
+          {
+            "strongs": "5971",
+            "hebrew": "עַמְּךָ֛",
+            "hebrew_greek": "ομφ",
+            "english": "Your people",
+            "morphology": "Noun - masculine singular construct :: second person masculine singular"
+          },
+          {
+            "strongs": "5921",
+            "hebrew": "עַל־",
+            "hebrew_greek": "ολ",
+            "english": "on",
+            "morphology": "Preposition"
+          },
+          {
+            "strongs": "2022",
+            "hebrew": "､  הֶהָרִ֖ים",
+            "hebrew_greek": "､  εεσιχ",
+            "english": "the mountains",
+            "morphology": "Article :: Noun - masculine plural"
+          },
+          {
+            "strongs": "369",
+            "hebrew": "וְאֵ֥ין",
+            "hebrew_greek": "υαιψ",
+            "english": "and no one",
+            "morphology": "Conjunctive waw :: Adverb"
+          },
+          {
+            "strongs": "6908",
+            "hebrew": ".  מְקַבֵּֽץ׃",
+            "hebrew_greek": ".  μρβϡ",
+            "english": "gathers them",
+            "morphology": "Verb - Piel - Participle - masculine singular"
+          }
+        ],
+        "19": [
+          {
+            "strongs": "369",
+            "hebrew": "אֵין־",
+            "hebrew_greek": "αιψ",
+            "english": "No",
+            "morphology": "Adverb"
+          },
+          {
+            "strongs": "3545",
+            "hebrew": "כֵּהָ֣ה",
+            "hebrew_greek": "κεε",
+            "english": "healing",
+            "morphology": "Noun - feminine singular"
+          },
+          {
+            "strongs": "7667",
+            "hebrew": "–  לְשִׁבְרֶ֔ךָ",
+            "hebrew_greek": "–  λτβσφ",
+            "english": "Your injury [has]",
+            "morphology": "Preposition-l :: Noun - masculine singular construct :: second person masculine singular"
+          },
+          {
+            "strongs": "2470",
+            "hebrew": ".  נַחְלָ֖ה",
+            "hebrew_greek": ".  νηλε",
+            "english": "is severe",
+            "morphology": "Verb - Nifal - Participle - feminine singular"
+          },
+          {
+            "strongs": "4347",
+            "hebrew": "מַכָּתֶ֑ךָ",
+            "hebrew_greek": "μκυφ",
+            "english": "Your wound",
+            "morphology": "Noun - feminine singular construct :: second person masculine singular"
+          },
+          {
+            "strongs": "3605",
+            "hebrew": "כֹּ֣ל ׀",
+            "hebrew_greek": "κλ ",
+            "english": "all",
+            "morphology": "Noun - masculine singular construct"
+          },
+          {
+            "strongs": "8085",
+            "hebrew": "שֹׁמְעֵ֣י",
+            "hebrew_greek": "τμοι",
+            "english": "who hear",
+            "morphology": "Verb - Qal - Participle - masculine plural construct"
+          },
+          {
+            "strongs": "8088",
+            "hebrew": "שִׁמְעֲךָ֗",
+            "hebrew_greek": "τμοφ",
+            "english": "news of you",
+            "morphology": "Noun - masculine singular construct :: second person masculine singular"
+          },
+          {
+            "strongs": "8628",
+            "hebrew": "תָּ֤קְעוּ",
+            "hebrew_greek": "υρου",
+            "english": "will clap",
+            "morphology": "Verb - Qal - Perfect - third person common plural"
+          },
+          {
+            "strongs": "3709",
+            "hebrew": "כַף֙",
+            "hebrew_greek": "κω",
+            "english": "[their] hands",
+            "morphology": "Noun - feminine singular"
+          },
+          {
+            "strongs": "5921",
+            "hebrew": "עָלֶ֔יךָ",
+            "hebrew_greek": "ολιφ",
+            "english": "over you",
+            "morphology": "Preposition :: second person masculine singular"
+          },
+          {
+            "strongs": "3588",
+            "hebrew": "כִּ֗י",
+            "hebrew_greek": "κι",
+            "english": "for",
+            "morphology": "Conjunction"
+          },
+          {
+            "strongs": "5921",
+            "hebrew": "עַל־",
+            "hebrew_greek": "ολ",
+            "english": "upon",
+            "morphology": "Preposition"
+          },
+          {
+            "strongs": "4310",
+            "hebrew": "מִ֛י",
+            "hebrew_greek": "μι",
+            "english": "whom",
+            "morphology": "Interrogative"
+          },
+          {
+            "strongs": "3808",
+            "hebrew": "לֹֽא־",
+            "hebrew_greek": "λα",
+            "english": "not",
+            "morphology": "Adverb - Negative particle"
+          },
+          {
+            "strongs": "5674",
+            "hebrew": "עָבְרָ֥ה",
+            "hebrew_greek": "οβσε",
+            "english": "has passed",
+            "morphology": "Verb - Qal - Perfect - third person feminine singular"
+          },
+          {
+            "strongs": "7451",
+            "hebrew": "רָעָתְךָ֖",
+            "hebrew_greek": "σουφ",
+            "english": "your wickedness",
+            "morphology": "Noun - feminine singular construct :: second person masculine singular"
+          },
+          {
+            "strongs": "8548",
+            "hebrew": "؟  תָּמִֽיד׃",
+            "hebrew_greek": "؟  υμιδ",
+            "english": "continually",
+            "morphology": "Adverb"
+          }
+        ]
+      }
+    }
+  }
+}
