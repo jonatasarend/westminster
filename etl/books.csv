@@ -1,0 +1,67 @@
+book_id,osis_code,name_pt,abbrev_pt,testament
+1,Gen,Gênesis,Gn,AT
+2,Exod,Êxodo,Êx,AT
+3,Lev,Levítico,Lv,AT
+4,Num,Números,Nm,AT
+5,Deut,Deuteronômio,Dt,AT
+6,Josh,Josué,Js,AT
+7,Judg,Juízes,Jz,AT
+8,Ruth,Rute,Rt,AT
+9,1Sam,1 Samuel,1Sm,AT
+10,2Sam,2 Samuel,2Sm,AT
+11,1Kgs,1 Reis,1Rs,AT
+12,2Kgs,2 Reis,2Rs,AT
+13,1Chr,1 Crônicas,1Cr,AT
+14,2Chr,2 Crônicas,2Cr,AT
+15,Ezra,Esdras,Ed,AT
+16,Neh,Neemias,Ne,AT
+17,Esth,Ester,Et,AT
+18,Job,Jó,Jó,AT
+19,Ps,Salmos,Sl,AT
+20,Prov,Provérbios,Pv,AT
+21,Eccl,Eclesiastes,Ec,AT
+22,Song,Cantares,Ct,AT
+23,Isa,Isaías,Is,AT
+24,Jer,Jeremias,Jr,AT
+25,Lam,Lamentações,Lm,AT
+26,Ezek,Ezequiel,Ez,AT
+27,Dan,Daniel,Dn,AT
+28,Hos,Oseias,Os,AT
+29,Joel,Joel,Jl,AT
+30,Amos,Amós,Am,AT
+31,Obad,Obadias,Ob,AT
+32,Jonah,Jonas,Jn,AT
+33,Mic,Miqueias,Mq,AT
+34,Nah,Naum,Na,AT
+35,Hab,Habacuque,Hc,AT
+36,Zeph,Sofonias,Sf,AT
+37,Hag,Ageu,Ag,AT
+38,Zech,Zacarias,Zc,AT
+39,Mal,Malaquias,Ml,AT
+40,Matt,Mateus,Mt,NT
+41,Mark,Marcos,Mc,NT
+42,Luke,Lucas,Lc,NT
+43,John,João,Jo,NT
+44,Acts,Atos,At,NT
+45,Rom,Romanos,Rm,NT
+46,1Cor,1 Coríntios,1Co,NT
+47,2Cor,2 Coríntios,2Co,NT
+48,Gal,Gálatas,Gl,NT
+49,Eph,Efésios,Ef,NT
+50,Phil,Filipenses,Fp,NT
+51,Col,Colossenses,Cl,NT
+52,1Thess,1 Tessalonicenses,1Ts,NT
+53,2Thess,2 Tessalonicenses,2Ts,NT
+54,1Tim,1 Timóteo,1Tm,NT
+55,2Tim,2 Timóteo,2Tm,NT
+56,Titus,Tito,Tt,NT
+57,Phlm,Filemom,Fm,NT
+58,Heb,Hebreus,Hb,NT
+59,Jas,Tiago,Tg,NT
+60,1Pet,1 Pedro,1Pe,NT
+61,2Pet,2 Pedro,2Pe,NT
+62,1John,1 João,1Jo,NT
+63,2John,2 João,2Jo,NT
+64,3John,3 João,3Jo,NT
+65,Jude,Judas,Jd,NT
+66,Rev,Apocalipse,Ap,NT

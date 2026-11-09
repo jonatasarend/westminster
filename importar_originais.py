@@ -1,4 +1,6 @@
-import json
+import hashlib
+from pathlib import Path
+
 import duckdb
 
 def import_SBLGNT():
@@ -14,16 +16,22 @@ def import_SBLGNT():
         schema_sql = f.read()
         con.execute(schema_sql)
 
+    print("Executando o arquivo seed_base.sql...")
+    with open("seed_base.sql", "r", encoding="utf-8") as f:
+        seed_sql = f.read()
+        con.execute(seed_sql)
+
     # 3. Registrar a versão MorphGNT SBLGNT na tabela de versões
     con.execute("""
         INSERT OR IGNORE INTO translations (id, name, language, license, is_original)
         VALUES ('SBLGNT', 'SBL Greek New Testament', 'grc', 'CC BY-SA 3.0', TRUE);
         """)
 
-    # 4. Ler o arquivo TXT com o texto da MorphGNT SBLGNT
-    txt_path = "dados/64-jn-morphgnt.txt"
-    print(f"Lendo o arquivo {txt_path}...")
-
+    # 4. Ler os arquivos TXT da MorphGNT SBLGNT em ordem
+    txt_paths = sorted(Path("dados/sblgnt-master").rglob("*.txt"))
+    if not txt_paths:
+        raise FileNotFoundError("Nenhum arquivo .txt encontrado no diretório dados/")
+    verses_records = []
     texts_records = []
 
     # 5. Importação do NT em grego (arquivo morfológico)
@@ -31,27 +39,36 @@ def import_SBLGNT():
     from collections import defaultdict
 
     verses = defaultdict(list)
+    seen_files = set()
 
-    with open(txt_path, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
+    for txt_path in txt_paths:
+        file_hash = hashlib.sha256(txt_path.read_bytes()).digest()
+        if file_hash in seen_files:
+            print(f"Ignorando cópia duplicada: {txt_path}")
+            continue
+        seen_files.add(file_hash)
 
-            if not line:
-                continue
+        print(f"Lendo o arquivo {txt_path}...")
+        with txt_path.open("r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
 
-            parts = line.split()
+                if not line:
+                    continue
 
-            # "Se a linha não tiver pelo menos 4 colunas, ignore-a e vá para a próxima."
-            if len(parts) < 4:
-                continue
+                parts = line.split()
 
-            # Ex.: 040101 = João 1:1
-            verse_code = parts[0]
+                # "Se a linha não tiver pelo menos 4 colunas, ignore-a e vá para a próxima."
+                if len(parts) < 4:
+                    continue
 
-            # Palavra grega da linha
-            greek_word = parts[3]
+                # Ex.: 040101 = João 1:1
+                verse_code = parts[0]
 
-            verses[verse_code].append(greek_word)
+                # Palavra grega da linha
+                greek_word = parts[3]
+
+                verses[verse_code].append(greek_word)
 
     for verse_code, words in verses.items():
 
@@ -65,6 +82,10 @@ def import_SBLGNT():
         verse_id = (book_id * 1000000) + (chap_num * 1000) + verse_num
 
         verse_text = " ".join(words)
+        verses_records.append((verse_id, book_id, chap_num, verse_num))
+
+        print(
+            f'Incluindo versículo: Livro {book_id}, Capítulo {chap_num}, Versículo {verse_num} -> ID {verse_id}, Texto: {verse_text}')
 
         # tabela verses_texts
         texts_records.append(
@@ -75,6 +96,11 @@ def import_SBLGNT():
     print(f"Inserindo {len(texts_records)} versículos no DuckDB...")
 
     # Insere o texto em Grego
+    con.executemany("""
+        INSERT OR IGNORE INTO verses (id, book_id, chapter, verse)
+        VALUES (?, ?, ?, ?);
+    """, verses_records)
+
     con.executemany("""
         INSERT OR IGNORE INTO verses_texts (translation_id, verse_id, text)
         VALUES (?, ?, ?);
