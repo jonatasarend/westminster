@@ -2,3 +2,5 @@ build/*.duckdb
 build/*.duckdb.wal
 __pycache__/
 *.db.wal
+*.db
+*.duckdb
